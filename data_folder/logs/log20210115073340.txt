@@ -1,1 +1,0 @@
-DEBUG:root:20210115073340S tart of the pipeline
