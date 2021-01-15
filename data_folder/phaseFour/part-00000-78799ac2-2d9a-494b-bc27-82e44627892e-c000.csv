@@ -1,0 +1,1154 @@
+carType,color,condition,currency,drive,city,country,make,manufacture_year,mileage,mileage_unit,model,model_variant,price_on_request,type,zip,manufacture_month,fuel_consumption_unit
+Limousine,Other,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1999,31900,"",E 320,E 320 Elégance 4-Matic,"","","",1,l_km_consumption
+Limousine,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,1999,101800,"",A8,A8 4.2 quattro,"","","",10,l_km_consumption
+SUV / Geländewagen,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",BMW,2004,86200,"",X3,X3 3.0i,"","","",10,l_km_consumption
+SUV / Geländewagen,Other,Occasion,"",Automat sequentiell,Zuzwil,"",Land Rover,2012,63200,"",RANGE ROVER,Range Rover 4.4TD Vogue,"","","",1,l_km_consumption
+Coupé,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,1999,20700,"",F360,F360 Modena Berlinetta,"","","",8,l_km_consumption
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1985,47000,"",924,924,"","","",5,null
+Coupé,Purple,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,2005,29300,"",F430,F430,"","","",6,l_km_consumption
+Limousine,Green,Oldtimer,"",Schaltgetriebe,Zuzwil,"",Nsu,1972,10352,"","",TT,"","","",8,null
+Cabriolet,Orange,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,1992,89100,"","",SL 60,"","","",12,null
+SUV / Geländewagen,Red,Occasion,"",Automat sequentiell,Zuzwil,"",Porsche,2003,79000,"",CAYENNE,Cayenne Turbo,"","","",3,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Alfa Romeo,1972,18400,"",GTV,2000 Bertone,"","","",2,null
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",Volvo,1999,107000,"",S40,S40 2.0 T,"","","",5,l_km_consumption
+Kleinwagen,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Renault,1983,159700,"",R5,R5 1400 Alpine Turbo,"","","",12,null
+Kombi,Black,Occasion,"",Automatik-Getriebe,Safenwil,"",Aston Martin,1987,39000,"",LAGONDA,Shooting Brake,"","","",3,null
+Coupé,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,2001,59500,"",911,911 Turbo,"","","",1,l_km_consumption
+Coupé,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2011,23000,"",SLS 63,SLS 63 AMG,"","","",7,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2002,32900,"",X5,X5 4.6is,"","","",8,l_km_consumption
+Cabriolet,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1996,78000,"",911,911 Carrera Cabrio,"","","",1,l_km_consumption
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",BMW,1999,18300,"",740,740iL,"","","",5,l_km_consumption
+Limousine,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2004,147400,"",E 55 AMG,E 55 AMG Avantgarde,"","","",2,l_km_consumption
+Kombi,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1997,62500,"",C 280,C 280 Elégance,"","","",6,l_km_consumption
+Kombi,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2003,144200,"",RS6,RS6 Avant quattro,"","","",2,l_km_consumption
+Coupé,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Mclaren,2012,1200,"",12C,MP4-12C Coupé 3.8 V8,"","","",3,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ferrari,2000,35000,"",456,456M GT,"","","",3,l_km_consumption
+Coupé,Silver,Occasion,"",Automat,Zuzwil,"",Porsche,2001,26300,"",911,911 Turbo,"","","",6,l_km_consumption
+SUV / Geländewagen,Silver,Occasion,"",Automat,Zuzwil,"",Porsche,2004,91600,"",CAYENNE,Cayenne Turbo,"","","",4,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1995,96600,"",SL 500,SL 500,"","","",1,null
+Limousine,White,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2003,101300,"",A8,A8 4.2 quattro,"","","",9,l_km_consumption
+Cabriolet,White,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,2012,11700,"",458,458 Spider Italia 4.5 V8,"","","",1,l_km_consumption
+Coupé,Blue,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Lamborghini,2007,38000,"",MURCIÉLAGO,Murciélago LP640-4 Cpé,"","","",7,l_km_consumption
+Limousine,Blue,Occasion,"",Schaltgetriebe,Zuzwil,"",BMW,1974,7990,"",2002,Turbo,"","","",1,null
+Coupé,Blue,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Lamborghini,2009,7300,"",GALLARDO,Gallardo LP550-2 Cpé V.B.,"","","",9,l_km_consumption
+Cabriolet,Purple,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,2001,46000,"",M3,M3,"","","",3,l_km_consumption
+Coupé,Yellow,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Toyota,1990,135800,"",MR2,MR2 2.0,"","","",12,null
+Cabriolet,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1993,75900,"",SL 600,SL 600,"","","",2,null
+Coupé,Red,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1995,96000,"",911,911 Carrera 4 Ruf Turbo BTR 2 420 PS,"","","",4,null
+Cabriolet,Red,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1993,117900,"",SL 500,SL 500,"","","",4,null
+Coupé,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1995,62000,"",S 600,S 600,"","","",6,null
+SUV / Geländewagen,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,118000,"",ML 500,ML 500,"","","",2,l_km_consumption
+Cabriolet,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1997,74000,"",911,911 Targa,"","","",5,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2001,20500,"",SL 500,SL 500,"","","",11,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,31200,"",SL 55 AMG,SL 55 AMG,"","","",4,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Jaguar,2009,49500,"",XK,XKR 5.0 V8 SC,"","","",3,l_km_consumption
+Limousine,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2004,61000,"",S 65 AMG,S 65 L AMG 650PS,"","","",8,l_km_consumption
+Cabriolet,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",Fiat,1974,120000,"",SPIDER,CSA Abarth,"","","",7,null
+Limousine,Silver,Occasion,"",Automat,Basel,"",Bentley,2006,15600,"",ARNAGE,Arnage T,"","","",3,l_km_consumption
+Coupé,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,2003,94500,"",911,911 Turbo,"","","",3,l_km_consumption
+Kombi,White,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2010,15000,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",1,l_km_consumption
+Limousine,Blue,Occasion,"",Automat,Zuzwil,"",Bentley,1995,39100,"",BROOKLANDS,Brooklands,"","","",3,null
+Limousine,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1999,112800,"",S 500,S 500,"","","",9,l_km_consumption
+SUV / Geländewagen,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2012,2000,"",ML 63 AMG,ML 63 AMG 4Matic,"","","",6,l_km_consumption
+Coupé,Grey,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Aston Martin,2003,24600,"",V12 Vanquish,Vanquish V12,"","","",1,l_km_consumption
+Limousine,Green,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Alfa Romeo,1981,81900,"",ALFASUD,Alfasud 1.5 ti,"","","",8,null
+Cabriolet,Green,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Mercedes-benz,2009,84000,"",SL 63 AMG,SL 63 AMG,"","","",1,l_km_consumption
+Limousine,Orange,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Maserati,2006,33600,"",QUATTROPORTE,Quattroporte 4.2 Exec. GT,"","","",3,l_km_consumption
+Coupé,Red,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,2007,45000,"",F430,F430,"","","",3,l_km_consumption
+Kompaktvan / Minivan,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Mercedes-benz,2006,60500,"",B 200,B 200 T Sailing Edition,"","","",8,l_km_consumption
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1997,70700,"",E 50 AMG,E 50 AMG Avantgarde,"","","",3,l_km_consumption
+Limousine,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,1974,134000,"",2002,Turbo,"","","",7,null
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Aston Martin,2007,28800,"",V8 Vantage,V8 Vantage 4.3,"","","",7,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat,Zuzwil,"",Jeep,1997,61000,"",Grand Cherokee,Grand Cherokee 5.2 Ltd.,"","","",6,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,13900,"",SL 600,SL 600,"","","",5,l_km_consumption
+Coupé,Black,Occasion,"",Automat,Zuzwil,"",Ferrari,1996,52800,"",456,456 GTA,"","","",12,null
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Renault,1983,111990,"",ALPINE,Alpine A310 V6,"","","",9,null
+Limousine,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2013,4600,"",M5,M5,"","","",3,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Porsche,2000,7000,"",911,GT3 CUP,"","","",5,null
+Cabriolet,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Smart,2003,165000,"",FORTWO,Fortwo passion,"","","",7,l_km_consumption
+Limousine,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2008,56200,"",S 65 AMG,S 65 AMG L,"","","",6,l_km_consumption
+Kombi,Silver,Occasion,"",Automat,Zuzwil,"",Audi,2010,26300,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",3,l_km_consumption
+Limousine,White,Occasion,"",Automatik-Getriebe,Zuzwil,"",Bentley,2000,85700,"",ARNAGE,Red Label,"","","",10,null
+Kombi,White,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2013,10400,"",CLS 500,CLS 500,"","","",5,l_km_consumption
+Limousine,White,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2007,102000,"",S 65 AMG,S 65 AMG L,"","","",3,l_km_consumption
+Cabriolet,Yellow,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1971,96000,"",911,Targa,"","","",11,null
+Coupé,Gold,Occasion,"",null,Zuzwil,"",Ruf,1990,46000,"","",CTR,"","","",1,null
+Kleinwagen,Grey,Oldtimer,"",Schaltgetriebe manuell,Zuzwil,"",Renault,1982,124500,"",R5,R5 1400 Alpine Turbo,"","","",7,null
+Kombi,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Land Rover,2011,50400,"",DEFENDER,Defender 90 2.4Td4 SW,"","","",2,l_km_consumption
+Limousine,Green,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2005,33600,"",M5,M5,"","","",8,l_km_consumption
+Cabriolet,Red,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,1998,67000,"",F355,F355 Spider,"","","",10,l_km_consumption
+Coupé,Red,Occasion,"",null,Zuzwil,"",Porsche,2001,21100,"",911,GT3 CS,"","","",1,null
+Kombi,Red,Occasion,"",Automat,Zuzwil,"",Audi,2010,38000,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",9,l_km_consumption
+Kombi,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Audi,2001,50000,"",RS4,RS4 Avant quattro,"","","",3,l_km_consumption
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",Bentley,2000,111600,"",ARNAGE,Arnage Red Label,"","","",2,l_km_consumption
+Cabriolet,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,77700,"",SL 600,SL 600,"","","",6,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2006,49000,"",SL 55 AMG,SL 55 AMG,"","","",3,l_km_consumption
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2005,21300,"",CLS 500,CLS 500,"","","",1,l_km_consumption
+Coupé,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2008,35800,"",CL 63 AMG,CL 63 AMG FAB DESIGN,"","","",8,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2000,77600,"",911,911 Carrera,"","","",9,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Nissan,1990,162900,"",200 SX,200 SX 1.8 16V Turbo,"","","",6,null
+Limousine,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2007,40300,"",S 65 AMG,S 65 AMG L,"","","",1,l_km_consumption
+Coupé,Blue,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Maserati,2002,53000,"",COUPÉ GT,Coupé GT,"","","",6,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,19200,"",SL 500,SL 500,"","","",3,l_km_consumption
+Limousine,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2006,68800,"",S 65 AMG,S 65 AMG L,"","","",8,l_km_consumption
+Coupé,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",Aston Martin,1998,97200,"",DB7,DB7,"","","",4,l_km_consumption
+Limousine,Purple,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2000,14100,"",S 320,S 320,"","","",6,l_km_consumption
+SUV / Geländewagen,Grey,Occasion,"",Automat,Zuzwil,"",Porsche,2008,28000,"",CAYENNE,Cayenne Turbo,"","","",8,l_km_consumption
+Cabriolet,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2002,128000,"",911,911 Carrera Targa,"","","",1,l_km_consumption
+Limousine,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,73900,"",S-CLASS,S 55 L AMG,"","","",2,l_km_consumption
+SUV / Geländewagen,Grey,Occasion,"",Schaltgetriebe,Zuzwil,"",Land Rover,1989,151300,"",RANGE ROVER,3.5,"","","",3,null
+Limousine,Green,Occasion,"",Automat stufenlos,Zuzwil,"",Lexus,2006,34000,"",GS,GS 450h,"","","",7,l_km_consumption
+Kombi,Green,Occasion,"",Automat,Zuzwil,"",Audi,2008,42500,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",10,l_km_consumption
+SUV / Geländewagen,Beige,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2000,40500,"",X5,X5 4.4i,"","","",11,l_km_consumption
+Coupé,Green,Occasion,"",Schaltgetriebe,Zuzwil,"",Porsche,2007,34000,"",911,Turbo,"","","",2,null
+Cabriolet,Green,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,33400,"",SL 55 AMG,SL 55 AMG,"","","",5,l_km_consumption
+Coupé,Orange,Occasion,"",Schaltgetriebe,Zuzwil,"",Alfa Romeo,1984,584,"",GTV,6 2.5,"","","",6,null
+Limousine,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Mercedes-benz,1997,118200,"",C 180,C 180 Esprit,"","","",11,l_km_consumption
+Coupé,Black,Neu,"",Automatik-Getriebe,Zuzwil,"",Audi,2007,500,"",R8,R8 Coupé 4.2,"","","",10,l_km_consumption
+Coupé,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,29500,"",CL 600,CL 600,"","","",12,l_km_consumption
+Coupé,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2005,26400,"",SLR,McLaren Coupé,"","","",1,null
+Cabriolet,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,1991,98000,"",SL 500,6.0 AMG,"","","",3,null
+Limousine,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,128800,"",S 600,S 600 L,"","","",6,l_km_consumption
+Kombi,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2002,144100,"",RS6,RS6 Avant quattro,"","","",8,l_km_consumption
+Limousine,Silver,Occasion,"",Automat,Zuzwil,"",Bentley,2003,57000,"",ARNAGE,Arnage T,"","","",12,null
+Limousine,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",VW,2009,33500,"",JETTA,Jetta 2.0 TDI Comfort,"","","",3,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1996,27600,"",SL 500,SL 500,"","","",10,l_km_consumption
+Kleinwagen,White,Occasion,"",Schaltgetriebe,Zuzwil,"",Autobianchi,1974,9999,"",A112,Abarth Serie II,"","","",6,null
+Coupé,White,Occasion,"",Automat,Zuzwil,"",Bentley,2004,79700,"",CONTINENTAL,Continental GT 6.0,"","","",7,l_km_consumption
+Coupé,White,Occasion,"",Schaltgetriebe,Zuzwil,"",Jaguar,1996,25000,"",XJ 220,null,"","","",5,null
+Kombi,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2002,47600,"",RS6,RS6 Avant quattro,"","","",7,l_km_consumption
+Coupé,Purple,Oldtimer,"",Schaltgetriebe,Zuzwil,"",Mercedes-benz,1939,1,"","",170V B Cabrio 136,"","","",7,null
+Coupé,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2001,25900,"",911,911 Turbo,"","","",10,l_km_consumption
+Cabriolet,Grey,Occasion,"",Automat,Zuzwil,"",Bentley,2007,58000,"",CONTINENTAL,Continental GTC 6.0,"","","",2,l_km_consumption
+Coupé,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ferrari,1997,62000,"",F550,F550 Maranello,"","","",5,l_km_consumption
+Coupé,Green,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2000,29000,"",CL 600,CL 600,"","","",5,l_km_consumption
+Coupé,Green,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Chevrolet,2009,6300,"",CORVETTE,Corvette ZR1,"","","",6,l_km_consumption
+Limousine,Red,Occasion,"",Automat,Zuzwil,"",Bentley,1990,60100,"",TURBO,Turbo R,"","","",5,null
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ferrari,2000,46500,"",456,456M GT,"","","",3,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1972,68000,"",Alpine A110,1600 S,"","","",2,null
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2008,45600,"",S 63 AMG,S 63 AMG L,"","","",8,l_km_consumption
+Kombi,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2002,75200,"",RS6,RS6 Avant quattro,"","","",8,l_km_consumption
+Cabriolet,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1984,137700,"",911,911 Carrera Cabrio,"","","",12,null
+Cabriolet,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Audi,2006,34650,"",RS4,RS4 Cabriolet 4.2 quattro,"","","",6,l_km_consumption
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",BMW,1996,65000,"",740,740i,"","","",12,l_km_consumption
+Cabriolet,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1993,37000,"",SL 600,SL 600,"","","",3,null
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Porsche,1993,128200,"",911,Turbo ll 3.6,"","","",10,null
+Cabriolet,Black,Oldtimer,"",Automatik-Getriebe,Basel,"",Rolls-royce,1982,70000,"",CORNICHE,Convertible,"","","",1,null
+SUV / Geländewagen,Silver,Occasion,"",Automat,Zuzwil,"",VW,2003,117800,"",TOUAREG,Touareg 5.0 TDI V10,"","","",11,l_km_consumption
+Kombi,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Toyota,2004,144000,"",COROLLA,Corolla 2.0 D4D L.Terra,"","","",6,l_km_consumption
+SUV / Geländewagen,Silver,Occasion,"",Automat,Zuzwil,"",Land Rover,2010,9000,"",RANGE ROVER,Range Rover 5.0 V8 SC,"","","",10,l_km_consumption
+Limousine,Silver,Oldtimer,"",Schaltgetriebe,Zuzwil,"",BMW-alpina,1980,129400,"",7 SERIES,B7 Turbo Limousine,"","","",3,null
+Coupé,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2000,39600,"",CL 500,CL 500,"","","",1,l_km_consumption
+Limousine,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2003,26300,"",A8,A8 4.2 quattro,"","","",11,l_km_consumption
+Cabriolet,Other,Occasion,"",Automat,Zuzwil,"",Audi,1996,120200,"",Cabriolet,Cabriolet 2.8 E,"","","",7,l_km_consumption
+Limousine,Bronze,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Maserati,2008,80000,"",QUATTROPORTE,Quattroporte 4.2 Sport GT,"","","",4,l_km_consumption
+Cabriolet,Yellow,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Chrysler,1993,28600,"",VIPER,Viper RT/10,"","","",10,null
+Cabriolet,Grey,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,2002,61800,"",911,911 Carrera Targa,"","","",5,l_km_consumption
+Coupé,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2002,52900,"",911,911 Turbo,"","","",6,l_km_consumption
+Coupé,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Toyota,1983,158000,"",CELICA,Celica 2800 i Supra,"","","",3,null
+Coupé,Grey,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,2001,74100,"",911,911 Turbo,"","","",8,l_km_consumption
+Limousine,Beige,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2008,19100,"",CLS 63 AMG,CLS 63 AMG,"","","",12,l_km_consumption
+Cabriolet,Red,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2005,22100,"",SL 65 AMG,SL 65 AMG,"","","",5,l_km_consumption
+Limousine,Red,Occasion,"",Automat,Zuzwil,"",Audi,1999,69900,"",A8,A8 4.2 quattro,"","","",1,l_km_consumption
+Limousine,Red,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Toyota,1977,78000,"","",1000 / Publica,"","","",5,null
+Coupé,Blue,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Lamborghini,2007,33000,"",MURCIÉLAGO,Murciélago LP640-4 Cpé,"","","",3,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Aston Martin,2006,92500,"",V8 Vantage,V8 Vantage 4.3,"","","",1,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1994,41700,"",911,911 Turbo,"","","",4,null
+Cabriolet,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2008,35500,"",911,911 Turbo Cabrio,"","","",4,l_km_consumption
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Lamborghini,1993,26800,"",DIABLO,Diablo 5.7,"","","",3,null
+Kombi,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2013,6000,"",RS6,RS6 Avant 4.0 TFSI V8 qu,"","","",3,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Porsche,2001,16300,"",911,GTR (GT3),"","","",4,null
+Cabriolet,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2012,66800,"",M6,M6,"","","",6,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automat,Sursee,"",Ford (usa),1968,1000,"",MUSTANG,null,"","","",3,null
+Cabriolet,Silver,Oldtimer,"",Schaltgetriebe manuell,Safenwil,"",Triumph,1957,98320,"",TR3,null,"","","",1,null
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1995,127850,"",911,911 Turbo,"","","",4,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Sursee,"",Lamborghini,2014,150,"",AVENTADOR,Aventador LP700-4 Rds,"","","",1,l_km_consumption
+Limousine,Blue,Occasion,"",Automat,Zuzwil,"",Bentley,2000,19300,"",ARNAGE,Arnage Red Label,"","","",5,l_km_consumption
+Cabriolet,White,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Porsche,2011,14000,"",911,911 Turbo S Cabrio,"","","",7,l_km_consumption
+Coupé,White,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ferrari,2000,36000,"",456,456M GT,"","","",3,l_km_consumption
+SUV / Geländewagen,Other,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2002,26500,"",X5,X5 4.6is,"","","",11,l_km_consumption
+Limousine,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1998,86900,"",E 55 AMG,E 55 AMG Avantgarde,"","","",2,l_km_consumption
+Limousine,Blue,Oldtimer,"",Schaltgetriebe,Zuzwil,"",Renault,1976,59800,"",ALPINE,A310 1600 VG,"","","",6,null
+Kombi,Purple,Occasion,"",Automatik-Getriebe,Zuzwil,"",Audi,1999,171700,"",A6,A6 Avant 2.7 T q.Ambiente,"","","",9,l_km_consumption
+Cabriolet,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ferrari,2002,16600,"",F360,F360 Spider,"","","",9,l_km_consumption
+Cabriolet,Grey,Occasion,"",Automatik-Getriebe,Zuzwil,"",Maserati,2003,50300,"",SPYDER GT,Spyder GT,"","","",6,l_km_consumption
+Limousine,Other,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2005,95400,"",CLS 500,CLS 500,"","","",1,l_km_consumption
+Limousine,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2010,67800,"",530 Gran Turismo,530d GT,"","","",1,l_km_consumption
+Cabriolet,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,47300,"",SL 500,SL 500,"","","",2,l_km_consumption
+Coupé,Green,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Peugeot,2003,72600,"",406,406 Coupé 3.0 V6 Pack,"","","",10,l_km_consumption
+Coupé,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Lamborghini,2005,49800,"",MURCIÉLAGO,Murciélago 6.2 Coupé,"","","",7,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Aston Martin,2007,35500,"",V8 Vantage,V8 Vantage 4.3,"","","",2,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Porsche,2011,39000,"",CAYENNE,Cayenne Turbo,"","","",1,l_km_consumption
+Coupé,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2005,58300,"",M6,M6,"","","",4,l_km_consumption
+Coupé,Black,Occasion,"",Automat,Zuzwil,"",Bentley,2005,84000,"",CONTINENTAL,Continental GT 6.0,"","","",1,l_km_consumption
+Limousine,Blue,Occasion,"",Automat,Zuzwil,"",Jaguar,2007,74000,"",XJ,XJ8 4.2 V8 Sovereign,"","","",11,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2000,8900,"",SL 320,SL 320,"","","",4,l_km_consumption
+Cabriolet,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2006,30600,"",911,911 Carrera 4S Cabrio,"","","",5,l_km_consumption
+Cabriolet,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2007,46500,"",911,911 Turbo Cabrio,"","","",9,l_km_consumption
+Coupé,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Aston Martin,2005,40800,"",DB9,DB9,"","","",1,l_km_consumption
+Limousine,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Citroen,2001,83800,"",C5,C5 3.0 V6 Exclusive,"","","",6,l_km_consumption
+Cabriolet,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Maserati,1995,39500,"",BITURBO,Biturbo Spyder E,"","","",3,null
+Cabriolet,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,24400,"",SL 500,SL 500,"","","",6,l_km_consumption
+Coupé,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",Bentley,1995,47500,"",TURBO,null,"","","",1,null
+Cabriolet,White,Oldtimer,"",Schaltgetriebe,Zuzwil,"",Alfa Romeo,1970,106000,"",SPIDER,1300 Junior,"","","",3,null
+Coupé,White,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2001,73400,"",CL 600,CL 600,"","","",1,l_km_consumption
+Coupé,Blue,Oldtimer,"",Schaltgetriebe,Zuzwil,"",Mg,1957,37000,"","",Roadster,"","","",1,null
+Coupé,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ford (usa),2015,4300,"",MUSTANG,5.0 GT Premium 50 Years,"","","",4,l_km_consumption
+Kombi,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",BMW,2004,108500,"",530,530d Touring,"","","",11,l_km_consumption
+Cabriolet,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ferrari,1997,41000,"",F355,F355 GTS,"","","",10,l_km_consumption
+Cabriolet,Other,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1994,48700,"",SL 600,SL 600,"","","",7,null
+Limousine,Grey,Occasion,"",Automat,Zuzwil,"",Bentley,2005,145000,"",ARNAGE,Arnage R,"","","",4,l_km_consumption
+Limousine,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1994,206000,"",E 500,E 500 Limited,"","","",6,null
+Limousine,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,1997,82500,"",323,323i Sport Edition,"","","",7,l_km_consumption
+SUV / Geländewagen,Red,Occasion,"",Automat,Zuzwil,"",Porsche,2007,78400,"",CAYENNE,Cayenne S,"","","",9,l_km_consumption
+Coupé,Red,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Mitsubishi,1983,114800,"",STARION,Starion 2000 Turbo,"","","",4,null
+Limousine,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,2007,99800,"",525,525xi,"","","",1,l_km_consumption
+Limousine,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Saab,2001,134600,"",9-3,9-3 2.0i-16 TS Aero,"","","",9,l_km_consumption
+Cabriolet,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",BMW,2000,228000,"",323,323Ci,"","","",6,l_km_consumption
+Coupé,Blue,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1976,60000,"",Alpine A110,1600 SX,"","","",7,null
+Coupé,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Bentley,2005,142000,"",CONTINENTAL,Continental GT 6.0,"","","",5,l_km_consumption
+Coupé,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,2008,5000,"",F430,Challenge GT3 LOOK,"","","",6,null
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Bentley,2009,76200,"",CONTINENTAL,Continental GTC 6.0,"","","",6,l_km_consumption
+Kombi,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Audi,2002,101900,"",A4,A4 Avant 3.0 V6,"","","",8,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1984,63500,"",911,911 Turbo,"","","",3,null
+Coupé,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,2010,28900,"",599,599 GTB HGTE,"","","",4,l_km_consumption
+Limousine,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",Nsu,1972,82804,"","",TT,"","","",4,null
+SUV / Geländewagen,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",Land Rover,1998,55800,"",DISCOVERY,Discovery 3.9,"","","",7,l_km_consumption
+Cabriolet,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",Pgo,2008,3000,"","",Cevennes,"","","",5,null
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Toyota,1986,101400,"",COROLLA,Corolla 1600 GTi TC16,"","","",12,null
+Limousine,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Mitsubishi,1999,120800,"",LANCER,EVO V,"","","",1,null
+Coupé,Blue,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Lamborghini,2011,18000,"",GALLARDO,Gallardo LP570-4 Coupé SL,"","","",3,l_km_consumption
+Coupé,Purple,Occasion,"",Schaltgetriebe,Zuzwil,"",Fiat,1970,9999,"","",850 Spider,"","","",8,null
+Cabriolet,Grey,Occasion,"",Automat,Zuzwil,"",Jaguar,1998,99800,"",XK,XK8 Convertible,"","","",7,l_km_consumption
+Kombi,Grey,Occasion,"",Automat,Zuzwil,"",BMW,1998,85800,"",540,540i Touring,"","","",1,l_km_consumption
+Kombi,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2003,32900,"",RS6,RS6 Avant quattro,"","","",4,l_km_consumption
+Coupé,Grey,Occasion,"",Automat,Zuzwil,"",Ferrari,1997,32500,"",456,456 GTA,"","","",11,l_km_consumption
+Coupé,Other,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Chevrolet,2015,200,"",CORVETTE,Corvette Z06,"","","",6,l_km_consumption
+Coupé,Green,Occasion,"",Schaltgetriebe,Zuzwil,"",BMW,1982,211000,"",323,Alpina Look,"","","",2,null
+Limousine,Red,Occasion,"",Automat,Zuzwil,"",VW,2008,84600,"",PHAETON,Phaeton 3.0 TDi V6 4M,"","","",7,l_km_consumption
+Kombi,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2003,43800,"",RS6,RS6 Avant quattro,"","","",2,l_km_consumption
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",VW,2002,50400,"",PHAETON,Phaeton 6.0 W12 4Motion,"","","",10,l_km_consumption
+Cabriolet,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Chrysler,1996,20000,"",VIPER,Viper RT/10,"","","",4,null
+SUV / Geländewagen,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2001,16000,"",ML 430,ML 430,"","","",4,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Matra,1979,52000,"","",SIMCA Bagheera Serie II,"","","",2,null
+Kombi,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2003,59000,"",RS6,RS6 Avant quattro,"","","",1,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",BMW,1995,49900,"",328,328i A Cabrio,"","","",8,l_km_consumption
+Coupé,Silver,Oldtimer,"",null,Sursee,"",Ferrari,1970,8000,"",365,Daytona Plexiglas,"","","",9,null
+Kleinwagen,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Daihatsu,1985,61800,"",CHARADE,Charade 1.0 Turbo,"","","",9,null
+Limousine,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2000,162900,"",C 240,C 240 Elégance,"","","",7,l_km_consumption
+Coupé,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2006,34500,"",M6,M6,"","","",11,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2000,42500,"",911,911 GT3,"","","",3,l_km_consumption
+Limousine,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Porsche,2010,35500,"",PANAMERA,Panamera 4S 4.8,"","","",5,l_km_consumption
+Limousine,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",BMW,1999,86300,"",328,328i,"","","",8,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Lamborghini,1993,46700,"",DIABLO,Diablo 5.7 VT,"","","",6,null
+SUV / Geländewagen,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Porsche,2005,13700,"",CAYENNE,Cayenne Turbo,"","","",12,l_km_consumption
+Coupé,White,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1971,31800,"",Alpine A110,1300 VC Gordini,"","","",3,null
+Cabriolet,White,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Mclaren,2013,12000,"",12C,MP4-12C Cabriolet 3.8 V8,"","","",3,l_km_consumption
+Limousine,White,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Mercedes-benz,2005,99000,"",A 150,A 150 Classic,"","","",10,l_km_consumption
+Limousine,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,145100,"",C 320,C 320 Elégance,"","","",5,l_km_consumption
+Limousine,Blue,Occasion,"",Automat,Zuzwil,"",BMW,1995,119600,"",750,750i,"","","",7,l_km_consumption
+Coupé,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1993,111000,"",S 600,S 600,"","","",8,null
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Toyota,1971,53100,"",CELICA,1600 GT,"","","",8,null
+Limousine,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",VW,2011,36300,"",GOLF,Golf 2.0 TSI R 4Motion,"","","",3,l_km_consumption
+SUV / Geländewagen,Other,Occasion,"",Automat sequentiell,Zuzwil,"",Porsche,2007,36700,"",CAYENNE,Cayenne Turbo,"","","",3,l_km_consumption
+Coupé,Green,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2003,38600,"",911,911 Turbo,"","","",4,l_km_consumption
+Cabriolet,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,32000,"",SL 55 AMG,SL 55 AMG,"","","",10,l_km_consumption
+Kombi,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2003,43400,"",RS6,RS6 Avant quattro,"","","",5,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Porsche,2005,64500,"",CAYENNE,Cayenne Turbo,"","","",10,l_km_consumption
+Kombi,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2009,57400,"",C 63 AMG,C 63 AMG Avantgarde,"","","",1,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Mg,1986,2500,"",METRO,6R4 Gruppe B,"","","",2,null
+SUV / Geländewagen,Black,Occasion,"",Automat,Zuzwil,"",VW,2008,108500,"",TOUAREG,Touareg R50 V10,"","","",4,l_km_consumption
+Coupé,Black,Neu,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Porsche,2014,100,"",911,911 GT3,"","","",7,l_km_consumption
+Limousine,Silver,Occasion,"",Automat,Zuzwil,"",Bentley,2000,42300,"",ARNAGE,Arnage Green Label,"","","",4,l_km_consumption
+Coupé,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,2005,22500,"",575M,575M,"","","",3,l_km_consumption
+Limousine,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,1997,42000,"",750,750iL,"","","",6,l_km_consumption
+Limousine,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",Lancia,1978,57000,"","",Monte Carlo 137 AS,"","","",7,null
+Coupé,Other,Occasion,"",Schaltgetriebe,Zuzwil,"",Jaguar,1956,5300,"","",D-Type XKD525,"","","",7,null
+Kombi,White,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2008,120000,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",7,l_km_consumption
+Kombi,Blue,Occasion,"",Automat,Zuzwil,"",Audi,2002,81000,"",RS6,RS6 Avant quattro,"","","",10,l_km_consumption
+Cabriolet,White,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Mazda,2007,6900,"",MX-5,MX-5 1.8i 16V Confort,"","","",3,l_km_consumption
+SUV / Geländewagen,White,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,2012,1000,"",CAYENNE,Cayenne S,"","","",6,l_km_consumption
+Limousine,Purple,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1997,67400,"",E 55 AMG,E 55 AMG Avantgarde,"","","",10,l_km_consumption
+Coupé,Gold,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Chevrolet,2010,13000,"",CORVETTE,Corvette ZR1,"","","",2,l_km_consumption
+Limousine,Grey,Oldtimer,"",Schaltgetriebe manuell,Zuzwil,"",BMW,1975,104650,"","",1602,"","","",2,null
+Coupé,Black,Occasion,"",Automat,Zuzwil,"",Jaguar,1999,89666,"",XK,XKR S/C,"","","",5,l_km_consumption
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2002,61300,"",911,911 GT2,"","","",12,l_km_consumption
+Limousine,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Maserati,2007,21500,"",QUATTROPORTE,Quattroporte 4.2,"","","",10,l_km_consumption
+Pick-up,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Toyota,1981,26900,"",DYNA,Bergungsfahrzeug,"","","",1,null
+Coupé,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,2003,23100,"",575M,575M,"","","",1,l_km_consumption
+Cabriolet,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Lotus,2005,16000,"","",HKT Seven GTS,"","","",5,null
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2004,96400,"",SL 600,SL 600,"","","",3,l_km_consumption
+Cabriolet,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2001,75400,"",911,911 Carrera Cabrio,"","","",2,l_km_consumption
+Limousine,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2010,25300,"",CLS 350,CLS 350 CGI,"","","",1,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automatik-Getriebe,Porrentruy,"",Alfa Romeo,2011,23900,"",8C,null,"","","",4,null
+Coupé,Blue,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,2013,12000,"",F12,F12 Berlinetta,"","","",1,l_km_consumption
+Coupé,White,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,2001,30100,"",911,911 Turbo,"","","",10,l_km_consumption
+Limousine,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1999,96500,"",S 55 AMG,S 55 AMG,"","","",2,l_km_consumption
+Cabriolet,Yellow,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Porsche,2011,28000,"",911,911 Turbo S Cabrio PDK,"","","",4,l_km_consumption
+Kombi,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2003,42600,"",RS6,RS6 Avant quattro,"","","",6,l_km_consumption
+SUV / Geländewagen,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Porsche,2006,36600,"",CAYENNE,Cayenne Turbo S,"","","",8,l_km_consumption
+Cabriolet,Green,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Porsche,2011,16000,"",911,911 Turbo S Cabrio SPEED ART 580PS,"","","",4,l_km_consumption
+Limousine,Green,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1998,75000,"",E 430,E 430 Avantgarde,"","","",2,l_km_consumption
+Coupé,Red,Occasion,"",Automatik-Getriebe,Zuzwil,"",Maserati,2005,41800,"",COUPÉ GT,Coupé GT,"","","",3,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,45300,"",SL 600,SL 600,"","","",6,l_km_consumption
+Cabriolet,Black,Neu,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Lamborghini,2015,90,"",AVENTADOR,Aventador LP700-4 Rds,"","","",3,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ferrari,1998,32800,"",F355,F355 Berlinetta,"","","",3,l_km_consumption
+Kombi,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Audi,2013,34200,"",RS4,RS4 Avant 4.2 FSI quattro,"","","",3,l_km_consumption
+Coupé,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,2010,680,"",458,458 Italia 4.5 V8,"","","",10,l_km_consumption
+Cabriolet,Other,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Lotus,2003,38200,"",ELISE,Elise,"","","",10,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2000,127800,"",911,911 Turbo,"","","",6,l_km_consumption
+Cabriolet,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",Maserati,2003,49300,"",SPYDER GT,Spyder GT,"","","",3,l_km_consumption
+Limousine,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2004,27600,"",745,745i,"","","",12,l_km_consumption
+Cabriolet,Silver,Occasion,"",null,Sursee,"",Mercedes-benz,1960,1000,"","",300SL Roadster,"","","",3,null
+Cabriolet,White,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Chevrolet,1961,67000,"",CORVETTE,C1,"","","",1,null
+SUV / Geländewagen,White,Vorführmodell,"",Schaltgetriebe manuell,Zuzwil,"",Hummer,2008,150,"",H3,H3 3.7 Adventure,"","","",11,l_km_consumption
+Kombi,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2008,49800,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",10,l_km_consumption
+Cabriolet,Other,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2006,47000,"",SL 55 AMG,SL 55 AMG,"","","",3,l_km_consumption
+Coupé,Grey,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,2008,37000,"",612,612,"","","",2,l_km_consumption
+SUV / Geländewagen,Grey,Occasion,"",Automat,Zuzwil,"",Land Rover,1998,42000,"",RANGE ROVER,Range Rover 4.6 HSE,"","","",6,l_km_consumption
+Kombi,Green,Occasion,"",Automat,Zuzwil,"",Audi,2008,45300,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",12,l_km_consumption
+Kombi,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Audi,2000,185900,"",S4,S4 Avant quattro,"","","",7,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Bentley,2011,20000,"",CONTINENTAL,Continental Supersports Conv.,"","","",1,l_km_consumption
+Coupé,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,2004,27650,"",F360,F360 Challenge stradale,"","","",3,l_km_consumption
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,89200,"",E 240,E 240 Elégance,"","","",4,l_km_consumption
+Coupé,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Audi,2011,31750,"",RS5,RS5 Coupé 4.2FSI quattro,"","","",1,l_km_consumption
+Limousine,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Audi,2011,1350,"",RS4,RS4 4.2 V8 quattro,"","","",0,l_km_consumption
+Limousine,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",BMW-alpina,1985,157000,"",5 SERIES,B7 (E28),"","","",7,null
+Kleinwagen,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Citroen,1986,80500,"",2CV,2CV6 Charleston,"","","",7,null
+Limousine,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Audi,2006,95700,"",RS4,RS4 4.2 V8 quattro,"","","",1,l_km_consumption
+Cabriolet,Silver,Occasion,"",null,Zuzwil,"",Datsun,1969,23300,"","",SPORTS 2000,"","","",7,null
+Coupé,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",Datsun,1981,50300,"",280,ZX,"","","",3,null
+Limousine,White,Occasion,"",Automat,Zuzwil,"",Audi,1997,94700,"",A8,A8 4.2 quattro,"","","",3,l_km_consumption
+Coupé,White,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,2003,39000,"",575M,575M,"","","",4,l_km_consumption
+SUV / Geländewagen,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,20800,"",ML 500,ML 500,"","","",1,l_km_consumption
+Cabriolet,White,Occasion,"",Schaltgetriebe,Zuzwil,"",Agm,2004,1,"","",WLR,"","","",1,null
+Coupé,White,Occasion,"",Automatik-Getriebe,Porrentruy,"",Lamborghini,2008,5900,"","",Reventon Coupé,"","","",4,null
+Coupé,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2001,116100,"",CL 500,CL 500,"","","",12,l_km_consumption
+Limousine,Yellow,Occasion,"",Automat,Zuzwil,"",Bentley,2006,35000,"",CONTINENTAL,Continental FlyingSpur6.0,"","","",3,l_km_consumption
+Limousine,Other,Occasion,"",Automat,Zuzwil,"",Bentley,1990,112500,"",TURBO,Turbo R,"","","",4,null
+Kombi,Grey,Occasion,"",Automat,Zuzwil,"",Audi,2008,14000,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",6,l_km_consumption
+Coupé,Other,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2001,47600,"",911,911 Turbo,"","","",11,l_km_consumption
+Cabriolet,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2000,51000,"",BOXSTER,Boxster S 3.2,"","","",7,l_km_consumption
+Limousine,Green,Occasion,"",Automatik-Getriebe,Zuzwil,"",Audi,1998,94000,"",A6,A6 2.8 Ambiente,"","","",2,l_km_consumption
+Cabriolet,Red,Occasion,"",Automat sequentiell,Zuzwil,"",Aston Martin,2006,41000,"",DB9,DB9 Volante,"","","",5,l_km_consumption
+Limousine,Red,Occasion,"",Automat,Zuzwil,"",Jaguar,2001,95100,"",XJ,XJR 4.0 V8 S/C,"","","",1,l_km_consumption
+Limousine,Red,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Mercedes-benz,2010,29000,"",E 63 AMG,E 63 AMG,"","","",1,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,43300,"",SL 55 AMG,SL 55 AMG,"","","",7,l_km_consumption
+Cabriolet,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,2001,65300,"",330,330Ci,"","","",5,l_km_consumption
+Kombi,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Audi,2006,117400,"",RS4,RS4 Avant 4.2 V8 quattro,"","","",8,l_km_consumption
+Limousine,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Maserati,2004,56600,"",QUATTROPORTE,Quattroporte 4.2,"","","",7,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2013,28100,"",G 63 AMG,G 63 AMG,"","","",4,l_km_consumption
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ferrari,1995,78000,"",F355,F355 Berlinetta,"","","",5,l_km_consumption
+Limousine,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2009,52000,"",S 500,S 500,"","","",2,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",Nissan,2007,2300,"",Skyline,R34 GTR,"","","",1,null
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Audi,1990,125000,"",QUATTRO,quattro Turbo 20V,"","","",1,null
+Kombi,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2002,36900,"",RS6,RS6 Avant quattro,"","","",9,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2005,39400,"",911,911 Carrera S,"","","",8,l_km_consumption
+Cabriolet,White,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1991,197800,"",SL 500,SL 500,"","","",1,null
+Coupé,White,Occasion,"",Schaltgetriebe,Zuzwil,"",Peugeot,1984,58950,"",205,Turbo 16V,"","","",11,null
+Limousine,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1998,35000,"",E 55 AMG,E 55 AMG Avantgarde,"","","",10,l_km_consumption
+Limousine,Yellow,Occasion,"",Automatik-Getriebe,Zuzwil,"",Audi,2001,103100,"",S6,S6 quattro,"","","",8,l_km_consumption
+Limousine,Yellow,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mazda,2001,158000,"",626,626 2.0i-16V HPV,"","","",8,l_km_consumption
+SUV / Geländewagen,Green,Occasion,"",Automat,Zuzwil,"",Land Rover,1998,70000,"",RANGE ROVER,Range Rover 4.6 HSE,"","","",10,l_km_consumption
+Cabriolet,Red,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Opel,2003,11700,"",SPEEDSTER,Speedster 2.0 16V Turbo,"","","",6,l_km_consumption
+Limousine,Red,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Mercedes-benz,2012,20100,"",E 63 AMG,E 63 AMG CGI,"","","",1,l_km_consumption
+Limousine,Red,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1996,132600,"",E 420,E 420 Avantgarde,"","","",5,l_km_consumption
+Limousine,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Mercedes-benz,2009,34500,"",E 63 AMG,E 63 AMG,"","","",6,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Jaguar,2000,107100,"",XK,XKR S/C Convertible,"","","",4,l_km_consumption
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2005,77000,"",CLS 55 AMG,CLS 55 AMG,"","","",6,l_km_consumption
+Limousine,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",BMW,1974,82600,"",2002,Turbo,"","","",7,null
+Coupé,White,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Renault,1988,98600,"",ALPINE,Alpine V6 Turbo,"","","",4,null
+Limousine,White,Occasion,"",Automatik-Getriebe,Zuzwil,"",BMW,1998,34400,"",728,728i,"","","",11,l_km_consumption
+Cabriolet,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,49900,"",SL 600,SL 600,"","","",10,l_km_consumption
+Coupé,Blue,Oldtimer,"",Schaltgetriebe manuell,Zuzwil,"",Renault,1978,77300,"",ALPINE,Alpine A310 V6,"","","",6,null
+Cabriolet,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2002,30500,"",SLK 230,SLK 230 Kompressor,"","","",8,l_km_consumption
+Kombi,Other,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2008,25400,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",7,l_km_consumption
+Cabriolet,Bronze,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,2008,22800,"",Z4,Z4 2.5i Roadster,"","","",9,l_km_consumption
+Coupé,Yellow,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ferrari,1999,49000,"",456,456M GT,"","","",5,l_km_consumption
+Cabriolet,Gold,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2008,78900,"",M3,M3,"","","",7,l_km_consumption
+Kombi,Grey,Occasion,"",Automat,Zuzwil,"",Audi,2008,24600,"",RS6,RS6 Avant 5.0 V10 quattro MTM,"","","",9,l_km_consumption
+Cabriolet,Other,Occasion,"",Automat,Zuzwil,"",Porsche,1998,89500,"",911,911 Carrera,"","","",7,l_km_consumption
+Wohnkabine,Other,Occasion,"",Schaltgetriebe,Zuzwil,"",Giottiline,2014,200,"","",Therry T22,"","","",4,null
+SUV / Geländewagen,Grey,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,2003,59900,"",CAYENNE,Cayenne S,"","","",3,l_km_consumption
+Cabriolet,Green,Occasion,"",Automat sequentiell,Zuzwil,"",Aston Martin,2010,71300,"",DBS,DBS Volante,"","","",4,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Porrentruy,"",Lamborghini,2011,7890,"",MURCIÉLAGO,Murciélago LP640-4 Cpé,"","","",4,l_km_consumption
+Kombi,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Audi,2004,66100,"",A4,A4 Avant 3.0 V6 quattro,"","","",7,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1995,56500,"",SL 500,SL 500,"","","",1,null
+Coupé,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,1999,26200,"",F360,F360 Modena Berlinetta,"","","",10,l_km_consumption
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Bentley,2007,28000,"",CONTINENTAL,Continental FlyingSpur6.0,"","","",2,l_km_consumption
+Coupé,Black,Occasion,"",null,Zuzwil,"",BMW,1982,64700,"",323,E21,"","","",9,l_km_consumption
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1997,58000,"",S 320,S 320,"","","",8,l_km_consumption
+Limousine,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Rolls-royce,1988,73800,"",Silver Spur,null,"","","",9,null
+Coupé,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Maserati,2009,8700,"",GRANTURISMO,GranTurismo,"","","",12,l_km_consumption
+Coupé,Blue,Occasion,"",Schaltgetriebe,Zuzwil,"",Ford,1971,64600,"",CAPRI,RS 2600,"","","",5,null
+Limousine,Blue,Occasion,"",Automat,Zuzwil,"",Jaguar,1999,69200,"",S-TYPE,S-Type 4.0 V8,"","","",5,l_km_consumption
+Limousine,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1998,48500,"",E 430,E 430 Avantgarde,"","","",6,l_km_consumption
+SUV / Geländewagen,Silver,Occasion,"",Automat,Zuzwil,"",Porsche,2008,21000,"",CAYENNE,Cayenne Turbo,"","","",4,l_km_consumption
+Limousine,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Audi,2006,108200,"",RS4,RS4 4.2 V8 quattro,"","","",5,l_km_consumption
+Coupé,Silver,Occasion,"",Automat,St. Gallen,"",Bentley,2015,5000,"",CONTINENTAL,Continental GT Speed 6.0,"","","",9,l_km_consumption
+Limousine,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2004,49000,"",A8,A8  6.0 quattro,"","","",7,l_km_consumption
+Limousine,Grey,Occasion,"",Schaltgetriebe,Zuzwil,"",BMW,1982,238500,"",323,323i,"","","",4,null
+Limousine,Green,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,1996,72000,"","",E 60 Carlsson,"","","",11,null
+Limousine,Green,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2005,16660,"","",CLK DTM AMG,"","","",8,null
+Coupé,Red,Oldtimer,"",Schaltgetriebe manuell,Zuzwil,"",Marcos,1968,85000,"","",1600 GT,"","","",4,null
+Coupé,Red,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,2004,28000,"",575M,575M,"","","",1,l_km_consumption
+Coupé,Red,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,2001,127800,"",M3,M3,"","","",9,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe,Sursee,"",Ferrari,1989,7000,"",F40 / F50,null,"","","",2,null
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2010,7400,"",E 63 AMG,E 63 AMG,"","","",3,l_km_consumption
+Kombi,Black,Occasion,"",Automat,Zuzwil,"",Audi,2009,29500,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",3,l_km_consumption
+Cabriolet,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,2007,77500,"",335,335i,"","","",7,l_km_consumption
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",BMW-alpina,2012,4950,"",5 SERIES,B5 BiTurbo 4.4 V8,"","","",6,l_km_consumption
+Sattelschlepper,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Mercedes-benz,1996,65400,"",600-SERIES,611 DS,"","","",4,null
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2000,51000,"",SL 500,SL 500 Edition,"","","",4,l_km_consumption
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2010,13200,"",S 63 AMG,S 63 AMG,"","","",6,l_km_consumption
+Limousine,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Fiat,1980,80000,"",131,Racing / Sport,"","","",5,null
+Coupé,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,2001,82100,"",911,911 Turbo,"","","",2,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Renault,1981,139200,"",ALPINE,Alpine A310 V6,"","","",12,null
+Cabriolet,Silver,Occasion,"",Automat,Zuzwil,"",Rolls-royce,2002,42000,"",CORNICHE,Corniche,"","","",6,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automat,Zuzwil,"",Aston Martin,2004,29000,"",DB7,DB7 Vantage Volante,"","","",4,l_km_consumption
+Kombi,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1997,126000,"",E 230,E 230 Elégance,"","","",5,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",Porsche,1983,134000,"",911,SC 3.0,"","","",4,null
+Coupé,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1973,75700,"",Alpine A110,1300,"","","",0,null
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2009,33000,"",911,911 Turbo,"","","",3,l_km_consumption
+Limousine,Purple,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Mitsubishi,2003,35200,"",LANCER,Lancer Evo VII,"","","",7,null
+Kombi,Other,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2003,27900,"",RS6,RS6 Avant quattro,"","","",7,l_km_consumption
+Limousine,Yellow,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2005,3000,"",M5,M5,"","","",4,l_km_consumption
+Coupé,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2006,19800,"",CL 65 AMG,CL 65 AMG,"","","",1,l_km_consumption
+Cabriolet,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,6000,"",SL 55 AMG,SL 55 AMG,"","","",6,l_km_consumption
+Coupé,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1978,51000,"",924,null,"","","",4,null
+Coupé,Grey,Oldtimer,"",Schaltgetriebe,Zuzwil,"",Ford,1927,1,"","",T - Roadster,"","","",1,null
+Limousine,Grey,Occasion,"",Automat,Zuzwil,"",BMW,1995,89200,"",740,740i,"","","",11,null
+Cabriolet,Other,Occasion,"",Automatik-Getriebe,Zuzwil,"",Lamborghini,2006,16200,"",MURCIÉLAGO,Murciélago 6.2 Roadster,"","","",1,l_km_consumption
+Coupé,Green,Occasion,"",Automat,Zuzwil,"",Ferrari,1999,92000,"",456,456M GTA,"","","",8,l_km_consumption
+Coupé,Green,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2001,50200,"",CL 55 AMG,CL 55 AMG,"","","",3,l_km_consumption
+Cabriolet,Red,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Porsche,2014,9900,"",911,911 Turbo S Cabrio,"","","",4,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1995,75200,"",SL 600,SL 600,"","","",9,null
+SUV / Geländewagen,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Opel,2001,153900,"",FRONTERA,Frontera 3.2i V6 Limited,"","","",5,l_km_consumption
+Cabriolet,Black,Vorführmodell,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2007,300,"",SLK 200,SLK 200 Kompressor,"","","",10,l_km_consumption
+Coupé,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2006,15100,"",CL 500,CL 500,"","","",9,l_km_consumption
+Coupé,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,137000,"",CL 600,CL 600,"","","",2,l_km_consumption
+Cabriolet,Silver,Occasion,"",null,Sursee,"",Mercedes-benz,1971,500,"",280,3.5 V8 Cabrio,"","","",2,null
+Coupé,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Wiesmann,2008,34600,"",COUPE,GT MF5,"","","",7,l_km_consumption
+Coupé,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2000,79500,"",CLK 55 AMG,CLK 55 AMG Avantgarde,"","","",6,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2000,77000,"",911,911 GT3,"","","",1,l_km_consumption
+Limousine,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Maserati,2005,33500,"",QUATTROPORTE,Quattroporte 4.2,"","","",10,l_km_consumption
+Cabriolet,Grey,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2002,1600,"",M3,M3,"","","",6,l_km_consumption
+Cabriolet,Green,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,23700,"",CLK 55 AMG,CLK 55 AMG Avantgarde,"","","",12,l_km_consumption
+SUV / Geländewagen,Red,Occasion,"",Automat sequentiell,Zuzwil,"",Land Rover,2003,90400,"",RANGE ROVER,Range Rover 4.4 V8 HSE,"","","",12,l_km_consumption
+Limousine,Red,Occasion,"",Automatik-Getriebe,Zuzwil,"",Rolls-royce,1978,30900,"",Silver Shadow,II,"","","",6,null
+Limousine,Red,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,2000,99,"",CLIO,Rennwagen,"","","",2,null
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Renault,1980,108000,"",ALPINE,Alpine A310 V6,"","","",4,null
+Limousine,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,1971,145100,"",300,SEL 3.5,"","","",5,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Opel,1982,60990,"",MANTA,400 Breitbau,"","","",7,null
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",BMW,1995,65400,"",740,740i,"","","",7,null
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Lamborghini,2003,13500,"",MURCIÉLAGO,Murciélago 6.2 Coupé,"","","",6,l_km_consumption
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",Bentley,2001,21700,"",ARNAGE,Arnage Red Label,"","","",7,l_km_consumption
+Coupé,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Lamborghini,2004,36700,"",GALLARDO,Gallardo 5.0 V10 Coupé,"","","",7,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,32500,"",SL 55 AMG,SL 55 AMG,"","","",1,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2008,49600,"",G 55 AMG,G 55 AMG,"","","",1,l_km_consumption
+Limousine,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",BMW,2002,125900,"",525,525i,"","","",2,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,2003,55800,"",F360,F360 Spider,"","","",2,l_km_consumption
+SUV / Geländewagen,Silver,Neu,"",Automatik-Getriebe,Zuzwil,"",Porsche,2009,1,"",CAYENNE,Cayenne S,"","","",9,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ferrari,2000,28000,"",F360,F360 Modena Berlinetta,"","","",5,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2000,38200,"",911,911 Carrera 4,"","","",11,l_km_consumption
+Cabriolet,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Audi,2005,49900,"",TT,TT Roadster 1.8 T,"","","",3,l_km_consumption
+Limousine,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",BMW,1998,26200,"",728,728i,"","","",5,l_km_consumption
+Coupé,Other,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1980,54000,"",924,Turbo,"","","",3,null
+Cabriolet,Blue,Occasion,"",Automatisiertes Schaltgetriebe,Porrentruy,"",Ferrari,2007,53500,"",F430,F430 Spider,"","","",6,l_km_consumption
+Limousine,Blue,Occasion,"",Automat,Zuzwil,"",BMW,1998,78700,"",540,540i,"","","",11,l_km_consumption
+Cabriolet,Blue,Occasion,"",Automat,Zuzwil,"",Porsche,2000,43400,"",BOXSTER,Boxster S 3.2,"","","",4,l_km_consumption
+Coupé,Blue,Neu,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,2015,200,"",458,458 Italia 4.5 V8 Speciale,"","","",1,l_km_consumption
+Coupé,Grey,Neu,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Lamborghini,2015,300,"",HURACAN,Huracan LP610-4 Coupé,"","","",7,l_km_consumption
+Coupé,Other,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2004,34500,"",SLR,730PS,"","","",6,null
+Coupé,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2001,55900,"",CL 500,CL 500,"","","",11,l_km_consumption
+Limousine,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2011,43000,"",S 250,S 250 CDI BlueEff SS,"","","",9,l_km_consumption
+Limousine,Beige,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2007,46000,"",S 65 AMG,S 65 L / BRABUS T65 S,"","","",2,l_km_consumption
+Kombi,Red,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2009,89000,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",3,l_km_consumption
+Cabriolet,Red,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2004,14400,"",911,911 Turbo Cabrio,"","","",1,l_km_consumption
+Kombi,Red,Occasion,"",Automatik-Getriebe,Zuzwil,"",Audi,1998,196300,"",A4,A4 Avant 2.8 q.Ambition,"","","",4,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2003,66800,"",X5,X5 4.4i,"","","",5,l_km_consumption
+Limousine,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,1996,86100,"",535,535i,"","","",6,l_km_consumption
+Cabriolet,Black,Occasion,"",Automatisiertes Schaltgetriebe,Porrentruy,"",Lamborghini,2014,1999,"",AVENTADOR,Aventador LP700-4 Rds,"","","",3,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2005,15300,"",SL 65 AMG,SL 65 AMG,"","","",3,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Porrentruy,"",Lamborghini,1999,45700,"",DIABLO,Diablo 5.7 SV,"","","",7,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Fiat,1978,115100,"",SPIDER,CSA,"","","",7,null
+Cabriolet,Black,Occasion,"",null,Zuzwil,"",Mercedes-benz,2008,500,"","",CLK DTM AMG Cabriolet,"","","",6,null
+Limousine,Silver,Occasion,"",Automat,Zuzwil,"",Bentley,1999,85700,"",ARNAGE,Arnage Green Label,"","","",6,l_km_consumption
+Limousine,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Porsche,2010,57600,"",PANAMERA,Panamera 4S 4.8,"","","",11,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2007,29800,"",SLR,McLaren,"","","",10,null
+SUV / Geländewagen,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,87800,"",ML 400,ML 400 CDI,"","","",11,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2001,60800,"",911,911 Turbo,"","","",5,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Renault,1983,69000,"",ALPINE,Alpine A310 V6,"","","",3,null
+Coupé,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",Ford,1978,96600,"",ESCORT,RS 2000,"","","",3,null
+Coupé,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2000,75300,"","",6.7 BRABUS,"","","",2,null
+Cabriolet,White,Vorführmodell,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Aston Martin,2010,9000,"",V8 Vantage,V8 Vantage 4.7,"","","",7,l_km_consumption
+Limousine,White,Occasion,"",Schaltgetriebe,Zuzwil,"",De Tomaso,1974,68100,"",PANTERA,null,"","","",9,null
+Coupé,White,Occasion,"",Automat,Zuzwil,"",Porsche,2008,73500,"",911,911 Turbo,"","","",2,l_km_consumption
+Limousine,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2011,31400,"",CLS 63 AMG,CLS 63 AMG,"","","",5,l_km_consumption
+Limousine,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2004,62000,"",A6,A6 4.2 V8 quattro,"","","",3,l_km_consumption
+Cabriolet,Other,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,16500,"",SL 55 AMG,SL 55 AMG,"","","",6,l_km_consumption
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1996,139900,"",911,911 Carrera 4S,"","","",3,l_km_consumption
+Limousine,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1998,128800,"",S 500,S 500 L,"","","",6,l_km_consumption
+Coupé,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Talbot,1982,182200,"",MATRA,Murena 2.2,"","","",4,null
+SUV / Geländewagen,Green,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2007,13300,"",ML 63 AMG,ML 63 AMG 4Matic,"","","",3,l_km_consumption
+Coupé,Green,Occasion,"",Automatik-Getriebe,Zuzwil,"",BMW,1977,128600,"",633,CSI A,"","","",1,null
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1999,70900,"",SL 320,SL 320,"","","",1,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1992,52500,"",SL 600,SL 600,"","","",9,null
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",BMW,2009,45000,"",750,750i xDrive,"","","",10,l_km_consumption
+Cabriolet,Black,Occasion,"",Schaltgetriebe manuell,Porrentruy,"",Lamborghini,1998,13960,"",DIABLO,Diablo 5.7 VT Roadster,"","","",5,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat,Zuzwil,"",Porsche,2008,18200,"",CAYENNE,Cayenne Turbo,"","","",4,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Porsche,2008,16500,"",CAYENNE,Cayenne Turbo,"","","",5,l_km_consumption
+Coupé,Black,Occasion,"",Automat,Zuzwil,"",BMW-alpina,1997,99400,"",3 SERIES,B3 3.2 Coupé S.Tronic,"","","",2,l_km_consumption
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",BMW,1996,141000,"",540,540i,"","","",7,l_km_consumption
+Kombi,Black,Vorführmodell,"",Automatik-Getriebe,Zuzwil,"",BMW,1997,112300,"",523,523i Touring,"","","",9,l_km_consumption
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2010,110800,"",S 350,S 350 L 4Matic,"","","",1,l_km_consumption
+Cabriolet,Other,Occasion,"",Automat sequentiell,Zuzwil,"",Aston Martin,2005,31800,"",DB9,DB9 Volante,"","","",11,l_km_consumption
+Coupé,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,1999,29000,"",F355,F355 Berlinetta,"","","",5,l_km_consumption
+Kombi,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2002,46900,"",RS6,RS6 Avant quattro,"","","",10,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,48200,"",SL 55 AMG,SL 55 AMG,"","","",3,l_km_consumption
+Coupé,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",Maserati,2003,61400,"",COUPÉ GT,Coupé GT,"","","",8,l_km_consumption
+Limousine,White,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,2009,110600,"",320,320d xDrive M-Sportpaket,"","","",2,l_km_consumption
+Kompaktvan / Minivan,White,Occasion,"",Automatik-Getriebe,Zuzwil,"",Renault,2004,145000,"",ESPACE,Espace 2.0 T Privilège,"","","",3,l_km_consumption
+Cabriolet,White,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,2006,29800,"",911,911 Carrera S Cabrio,"","","",8,l_km_consumption
+Limousine,Purple,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2004,60000,"",A8,A8 4.2 quattro,"","","",4,l_km_consumption
+SUV / Geländewagen,Yellow,Occasion,"",Automat,Zuzwil,"",Porsche,2006,91600,"",CAYENNE,Cayenne Turbo S,"","","",9,l_km_consumption
+Cabriolet,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Mazda,1989,67200,"",RX-7,RX-7 2.6 Turbo II,"","","",8,null
+Kombi,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2008,41900,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",10,l_km_consumption
+Limousine,Grey,Occasion,"",Automat,Zuzwil,"",Jaguar,2002,32900,"",S-TYPE,S-Type 4.2 V8 S/C R,"","","",7,l_km_consumption
+Cabriolet,Grey,Occasion,"",Automatik-Getriebe,Zuzwil,"",Maserati,2002,63000,"",SPYDER GT,Spyder GT,"","","",5,l_km_consumption
+Limousine,Grey,Occasion,"",Schaltgetriebe,Zuzwil,"",VW,2000,1,"",BEETLE,New Beetle Cup,"","","",9,null
+Coupé,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1996,91000,"",911,911 Carrera RS Clubsport/993 GT2,"","","",4,null
+Limousine,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2006,130000,"",S 65 AMG,S 65 AMG L,"","","",9,l_km_consumption
+Kombi,Green,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1997,44000,"",E 420,E 420 Elégance,"","","",10,l_km_consumption
+Coupé,Green,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2002,77600,"",911,911 Turbo,"","","",2,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1983,128500,"",ALPINE,V6,"","","",8,null
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Lamborghini,2000,20600,"",DIABLO,Diablo 5.7,"","","",12,null
+SUV / Geländewagen,Black,Occasion,"","Automat stufenlos, sequentiell",Zuzwil,"",Nissan,2005,54500,"",MURANO,Murano 3.5 V6,"","","",10,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Toyota,1983,54100,"",CELICA,Celica 2800 i Supra,"","","",3,null
+Coupé,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Lamborghini,2009,9500,"",MURCIÉLAGO,Murciélago LP670-4 SV Cpé,"","","",7,l_km_consumption
+Cabriolet,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2012,19999,"",SL 63 AMG,SL 63 AMG,"","","",3,l_km_consumption
+Limousine,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Lancia,1993,131000,"",DELTA,Delta HF Integrale Evo 4V,"","","",12,null
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1991,101300,"",911,911 Turbo II,"","","",8,null
+Limousine,Blue,Occasion,"",Automat,Zuzwil,"",Audi,2003,26700,"",A8,A8 4.2 quattro,"","","",1,l_km_consumption
+Limousine,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2012,19000,"",M5,M5,"","","",3,l_km_consumption
+Coupé,Silver,Vorführmodell,"",Schaltgetriebe manuell,Zuzwil,"",BMW,2011,10900,"",Z4,Z4 M Coupé,"","","",8,l_km_consumption
+Coupé,Blue,Occasion,"",Automatisiertes Schaltgetriebe,Porrentruy,"",Ferrari,2003,42500,"",F360,F360 Modena Berlinetta,"","","",11,l_km_consumption
+Limousine,Purple,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2000,99900,"",S 500,S 500,"","","",5,l_km_consumption
+Limousine,Yellow,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2001,42000,"",S 400,S 400 CDI,"","","",4,l_km_consumption
+Coupé,Grey,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1977,41400,"",Alpine A110,1600 SX,"","","",6,null
+SUV / Geländewagen,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2001,113000,"",X5,X5 4.4i,"","","",1,l_km_consumption
+Cabriolet,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1996,55200,"",SL 500,SL 500 Special Edition,"","","",4,null
+Coupé,Grey,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Lamborghini,2009,24000,"",GALLARDO,Gallardo LP560-4 Coupé,"","","",1,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1979,36900,"",ALPINE,2700VA,"","","",8,null
+Kombi,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,1996,79800,"",320,320i Touring,"","","",1,l_km_consumption
+Limousine,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,1987,88000,"",M3,M3,"","","",10,null
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",Daimler,1998,100,"",V8,V8 4.0,"","","",5,l_km_consumption
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Porrentruy,"",Lamborghini,1993,49500,"",DIABLO,Diablo 5.7,"","","",4,null
+Cabriolet,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,59300,"",SL 55 AMG,SL 55 AMG,"","","",2,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Renault,1978,222300,"",ALPINE,Alpine A310 V6,"","","",7,null
+Cabriolet,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2007,47900,"",SL 500,SL 500,"","","",4,l_km_consumption
+SUV / Geländewagen,Silver,Occasion,"",Automat,Zuzwil,"",VW,2006,104500,"",TOUAREG,Touareg 5.0 TDI V10,"","","",9,l_km_consumption
+Limousine,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2006,29900,"",535,535d,"","","",1,l_km_consumption
+Coupé,Other,Oldtimer,"",Schaltgetriebe,Zuzwil,"",Lamborghini,1973,48000,"","",Espada GT 400 Serie 3,"","","",4,null
+Coupé,Other,Occasion,"",null,Zuzwil,"",Ruf,2007,36000,"","",RT 12,"","","",6,null
+Limousine,Blue,Occasion,"",Automat,Zuzwil,"",Honda,2001,111500,"",LEGEND,Legend V6 3.5i,"","","",3,l_km_consumption
+Limousine,Yellow,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1999,128000,"",S 320,S 320,"","","",4,l_km_consumption
+Coupé,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2011,79500,"",CL 500,CL 500 4Matic,"","","",1,l_km_consumption
+Limousine,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Maserati,2010,29000,"",QUATTROPORTE,Quattroporte 4.7 S,"","","",11,l_km_consumption
+Cabriolet,Green,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Mclaren,2013,16000,"",12C,MP4-12C Spider 3.8 V8,"","","",5,l_km_consumption
+Limousine,Green,Occasion,"",null,Zuzwil,"",Lancia,1984,13000,"","",Rally 037 stradale,"","","",4,null
+Cabriolet,Green,Occasion,"",Automatik-Getriebe,Zuzwil,"",BMW,2000,140000,"",323,323Ci,"","","",7,l_km_consumption
+Cabriolet,Green,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1996,12900,"",SL 600,SL 600,"","","",5,l_km_consumption
+Coupé,Green,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1977,91000,"",Alpine A110,null,"","","",7,null
+Cabriolet,Red,Occasion,"",Schaltgetriebe,Zuzwil,"",Dodge,2001,18600,"",VIPER,RT/10,"","","",12,null
+Limousine,Red,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Mercedes-benz,2013,4900,"",S 63 AMG,S 63 AMG,"","","",10,l_km_consumption
+Kombi,Red,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Audi,2000,45000,"",A6,A6 Avant 2.7 T Ambition,"","","",9,l_km_consumption
+SUV / Geländewagen,Other,Occasion,"",Automat sequentiell,Zuzwil,"",Porsche,2010,2900,"",CAYENNE,Cayenne Turbo Techart Magnum Kit,"","","",1,l_km_consumption
+Limousine,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2013,15300,"",M5,M5,"","","",9,l_km_consumption
+Coupé,Black,Occasion,"",Automat,Zuzwil,"",Ferrari,1999,18200,"",456,456M GTA,"","","",12,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1999,29800,"",911,911 GT3,"","","",8,l_km_consumption
+Coupé,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2012,29600,"",M6,M6,"","","",10,null
+Coupé,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Maserati,2005,38400,"",GRANSPORT,Coupé GranSport,"","","",1,l_km_consumption
+Limousine,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,48100,"",S 600,S 600 L,"","","",1,l_km_consumption
+Kleinwagen,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Renault,2004,61200,"",CLIO,Clio 3.0 Sport V6,"","","",11,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Chevrolet,2008,33000,"",CORVETTE,Corvette 6.2,"","","",3,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Chevrolet,2010,24000,"",CORVETTE,Corvette Z06,"","","",3,l_km_consumption
+Coupé,White,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ferrari,2007,26000,"",575M,575M,"","","",5,l_km_consumption
+Limousine,White,Occasion,"",Automat,Zuzwil,"",Bentley,2006,43000,"",CONTINENTAL,Continental FlyingSpur6.0,"","","",1,l_km_consumption
+Cabriolet,Yellow,Occasion,"",Automatik-Getriebe,Zuzwil,"",Rolls-royce,1987,19720,"",CORNICHE,Cabrio,"","","",6,null
+Coupé,Yellow,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,1998,28100,"",F355,F355 Berlinetta,"","","",3,l_km_consumption
+Coupé,Other,Occasion,"",Automatik-Getriebe,Sursee,"",Bugatti,2008,20000,"","",Veyron 16.4,"","","",7,null
+Coupé,Grey,Neu,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2005,165,"",CL 500,CL 500,"","","",1,l_km_consumption
+Limousine,Grey,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Porsche,2010,47500,"",PANAMERA,Panamera Turbo 4.8,"","","",1,l_km_consumption
+Coupé,Grey,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Maserati,2002,114800,"",COUPÉ GT,Coupé GT,"","","",6,l_km_consumption
+SUV / Geländewagen,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2009,88500,"",ML 63 AMG,ML 63 AMG 4Matic,"","","",3,l_km_consumption
+Coupé,Grey,Oldtimer,"",Schaltgetriebe,Zuzwil,"",Renault,1972,34900,"",Alpine A110,1600S VC,"","","",7,null
+Limousine,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2003,29200,"",E 500,E 500 Avantgarde,"","","",5,l_km_consumption
+Coupé,Green,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ferrari,1992,56500,"",MONDIAL,Mondial 3.4 T,"","","",5,null
+Cabriolet,Red,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,36800,"",SL 500,SL 500,"","","",6,l_km_consumption
+Kombi,Red,Occasion,"",Automat sequentiell,Zuzwil,"",Chrysler,2007,47100,"",300C,300C T 5.7 HEMI V8,"","","",1,l_km_consumption
+Limousine,Red,Occasion,"",Automat,Zuzwil,"",Bentley,2002,62000,"",ARNAGE,Arnage T,"","","",5,l_km_consumption
+Coupé,Red,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2012,43000,"",SL 65 AMG,BLACK SERIES,"","","",4,null
+Limousine,Red,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1996,33700,"",E 50 AMG,E 50 AMG Avantgarde,"","","",11,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1991,55300,"",SL 500,SL 500,"","","",9,null
+Limousine,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2004,51000,"",CLS 500,CLS 500,"","","",12,l_km_consumption
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",Bentley,1995,124900,"",BROOKLANDS,Brooklands,"","","",12,null
+Limousine,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,2000,171000,"",M5,M5,"","","",1,l_km_consumption
+Kombi,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2002,91100,"",RS6,RS6 Avant quattro,"","","",7,l_km_consumption
+Limousine,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Audi,2002,316200,"",S3,S3 quattro,"","","",3,l_km_consumption
+Coupé,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,1998,26000,"",911,911 Carrera,"","","",5,l_km_consumption
+Kombi,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2008,48200,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",11,l_km_consumption
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1999,73700,"",S 320,S 320,"","","",3,l_km_consumption
+Kombi,Black,Neu,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2006,500,"",R 500,R 500 4Matic,"","","",1,l_km_consumption
+Kleinwagen,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1981,147800,"",R5,Alpine,"","","",7,null
+Limousine,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1997,35600,"",E 50 AMG,E 50 AMG Avantgarde,"","","",2,l_km_consumption
+Kombi,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2009,118800,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",2,l_km_consumption
+Limousine,Silver,Occasion,"",Automat,Zuzwil,"",Audi,1997,66300,"",A8,A8 4.2 quattro,"","","",1,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1999,83600,"",SL 320,SL 320,"","","",8,l_km_consumption
+SUV / Geländewagen,White,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,148300,"",ML 400,ML 400 CDI,"","","",2,l_km_consumption
+Kombi,Blue,Neu,"",Automat sequentiell,Zuzwil,"",Audi,2014,100,"",RS6,RS6 Avant 4.0 TFSI V8 qu,"","","",4,l_km_consumption
+Limousine,White,Occasion,"",Automatik-Getriebe,Zuzwil,"",Audi,2004,95300,"",A4,A4 3.0 V6,"","","",2,l_km_consumption
+Cabriolet,White,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1997,70600,"",SL 320,SL 320,"","","",2,l_km_consumption
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Lotus,2002,36700,"",ESPRIT,Esprit 3.5 V8 SE,"","","",7,l_km_consumption
+Coupé,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2000,75100,"",CL 500,CL 500,"","","",9,l_km_consumption
+SUV / Geländewagen,Other,Occasion,"",Automat sequentiell,Zuzwil,"",Porsche,2003,121000,"",CAYENNE,Cayenne Turbo,"","","",3,l_km_consumption
+Limousine,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Lancia,1992,155000,"",DELTA,Delta HF Integrale Evo,"","","",2,null
+Kombi,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2011,76500,"",535,535i Touring,"","","",7,l_km_consumption
+Coupé,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2003,63300,"",911,911 Turbo,"","","",9,l_km_consumption
+Cabriolet,Green,Occasion,"",Automat sequentiell,Zuzwil,"",Bentley,2010,15000,"",CONTINENTAL,Continental Supersports Conv.,"","","",9,l_km_consumption
+Coupé,Red,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,2008,9650,"",911,911 Turbo,"","","",7,l_km_consumption
+Kleinwagen,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Seat,2005,132200,"",IBIZA,Ibiza 1.9 TDI FR,"","","",8,l_km_consumption
+Limousine,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Mercedes-benz,2011,69200,"",CLS 63 AMG,CLS 63 AMG,"","","",9,l_km_consumption
+Limousine,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Seat,2009,53300,"",LEON,Leon 2.0 TSI FR,"","","",1,l_km_consumption
+Kombi,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2003,40900,"",RS6,RS6 Avant quattro,"","","",10,l_km_consumption
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",VW,2002,175000,"",PHAETON,Phaeton 6.0 W12 4Motion,"","","",11,l_km_consumption
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1981,114000,"",924,Turbo,"","","",9,null
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",Lincoln,2002,119600,"",Continental,null,"","","",2,null
+Coupé,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,2000,80000,"",911,911 Turbo,"","","",10,l_km_consumption
+Cabriolet,Blue,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2002,49600,"",M3,M3,"","","",5,l_km_consumption
+Limousine,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",VW,2007,105800,"",GOLF,Golf R32 4Motion,"","","",2,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Renault,1992,71600,"",ALPINE,Alpine A610 Turbo,"","","",6,null
+Limousine,Silver,Oldtimer,"",Schaltgetriebe,Zuzwil,"",Toyota,1972,57700,"",CARINA,Deluxe,"","","",11,null
+Coupé,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,2004,42200,"",612,612,"","","",10,l_km_consumption
+Coupé,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Lamborghini,2006,20000,"",GALLARDO,Gallardo 5.0 V10 Coupé SE,"","","",1,l_km_consumption
+Coupé,Silver,Oldtimer,"",Schaltgetriebe,Zuzwil,"",Renault,1976,42940,"",ALPINE,1600 VF,"","","",8,null
+Limousine,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Triumph,1977,12800,"",Dolomite,Sprint,"","","",7,null
+Kleinwagen,Other,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Renault,1982,77900,"",R5,R5 1400 Alpine Turbo,"","","",3,null
+Coupé,Other,Occasion,"",Schaltgetriebe manuell,Porrentruy,"",Lamborghini,1999,44500,"",DIABLO,Diablo 5.7 SV,"","","",1,l_km_consumption
+Limousine,White,Occasion,"",Automat,Zuzwil,"",BMW,2000,49700,"",330,330i,"","","",9,l_km_consumption
+Kombi,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2001,83000,"",E 320,E 320 Avantgarde,"","","",5,l_km_consumption
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2002,132600,"",911,911 Turbo,"","","",3,l_km_consumption
+Limousine,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Maserati,2009,96000,"",QUATTROPORTE,Quattroporte 4.7 S,"","","",2,l_km_consumption
+Limousine,Yellow,Oldtimer,"",Automatik-Getriebe,Safenwil,"",Toyota,1985,58100,"",CAMRY,2000 GLi Super Liftback,"","","",5,null
+Kombi,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2003,39000,"",RS6,RS6 Avant quattro,"","","",1,l_km_consumption
+Cabriolet,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1997,106000,"",SL 500,SL 500,"","","",6,l_km_consumption
+Coupé,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2009,44600,"",911,911 GT2,"","","",5,l_km_consumption
+Coupé,Green,Occasion,"",Schaltgetriebe,Zuzwil,"",Fiat,1972,131000,"",Dino,2400 Coupé,"","","",10,null
+Cabriolet,Red,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1993,68900,"",SL 600,SL 600,"","","",5,null
+Kompaktvan / Minivan,Red,Occasion,"",Automat,Zuzwil,"",Dodge,1979,13800,"","",B 200,"","","",7,null
+Coupé,Red,Neu,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Porsche,2015,100,"",911,911 Turbo S,"","","",1,l_km_consumption
+SUV / Geländewagen,Red,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2004,61900,"",X5,X5 4.8is,"","","",8,l_km_consumption
+Coupé,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,1999,77800,"",911,911 Carrera 4,"","","",5,l_km_consumption
+Cabriolet,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Alfa Romeo,1988,69300,"",SPIDER,Spider 2.0,"","","",4,null
+SUV / Geländewagen,Blue,Occasion,"",Automat,Zuzwil,"",Hummer,2006,127700,"",H3,H3 3.5 Luxury,"","","",1,l_km_consumption
+Cabriolet,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2007,48000,"",M6,M6,"","","",4,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2008,29100,"",SL 600,SL 600,"","","",1,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Audi,2008,67700,"",S5,S5 Coupé 4.2 FSI quattro,"","","",5,l_km_consumption
+Coupé,Black,Occasion,"",Automat sequentiell,St. Gallen,"",Lamborghini,2014,1700,"",GALLARDO,GallardoLP570-4CpéTecnica,"","","",9,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1992,125600,"",SL 500,SL 500,"","","",7,null
+Coupé,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Bentley,2008,36900,"",CONTINENTAL,Continental GT Speed 6.0,"","","",5,l_km_consumption
+Limousine,Blue,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Porsche,2010,26800,"",PANAMERA,Panamera Turbo 4.8,"","","",1,l_km_consumption
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2012,82000,"",535,535d xDrive,"","","",4,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1999,35100,"",911,911 Carrera 4,"","","",4,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Chevrolet,2009,4000,"",CORVETTE,Corvette ZR1,"","","",7,l_km_consumption
+Limousine,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",BMW,1974,578,"",2002,Turbo,"","","",6,null
+Cabriolet,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2007,32000,"",M6,M6,"","","",2,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2001,53400,"",911,911 GT2,"","","",9,l_km_consumption
+SUV / Geländewagen,Blue,Occasion,"",Automat,Zuzwil,"",Ford (usa),1999,50100,"",EXPLORER,Explorer 4.0 Ltd. Edition,"","","",9,l_km_consumption
+Cabriolet,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2008,41000,"",SL 55 AMG,SL 55 AMG,"","","",12,l_km_consumption
+Cabriolet,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2000,25100,"",SL 320,SL 320,"","","",4,l_km_consumption
+Kombi,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2008,46000,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",7,l_km_consumption
+Limousine,Other,Occasion,"",Schaltgetriebe,Zuzwil,"",BMW-alpina,1999,146500,"",3 SERIES,B8,"","","",1,null
+Coupé,Other,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1971,19200,"",Alpine A110,1600S Gruppe 5 look,"","","",1,null
+Coupé,Grey,Occasion,"",Schaltgetriebe,Zuzwil,"",Mg,1968,48800,"",MGC,GT,"","","",8,null
+Cabriolet,Grey,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2008,70400,"",SLK 350,SLK 350,"","","",3,l_km_consumption
+Coupé,Green,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1996,88500,"",S 600,S 600,"","","",3,null
+Cabriolet,Green,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1999,16300,"",SL 500,SL 500,"","","",4,l_km_consumption
+Limousine,Beige,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1998,49900,"",E 55 AMG,E 55 AMG Avantgarde,"","","",6,l_km_consumption
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1991,156300,"",500,500 SE,"","","",7,null
+SUV / Geländewagen,Blue,Occasion,"",Automat,Zuzwil,"",Land Rover,2006,49900,"",RANGE ROVER SPORT,Range Rover Sport 4.2 V8 SC,"","","",6,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Jaguar,1974,49200,"",E,E-Type III,"","","",3,null
+Coupé,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2000,103800,"",CL 600,CL 600,"","","",6,l_km_consumption
+Limousine,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2012,12000,"",M5,M5,"","","",1,l_km_consumption
+Kombi,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2003,41100,"",RS6,RS6 Avant quattro,"","","",6,l_km_consumption
+Coupé,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,2005,36000,"",612,612,"","","",4,l_km_consumption
+Limousine,Blue,Occasion,"",Schaltgetriebe,Zuzwil,"",Lancia,1995,68000,"",DELTA,Integrale EVO,"","","",2,null
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1995,134100,"",911,911 Carrera 4,"","","",2,null
+Cabriolet,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,2001,41000,"",F360,F360 Spider,"","","",5,l_km_consumption
+Coupé,White,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,2007,22000,"",599,599 GTB,"","","",4,l_km_consumption
+Limousine,White,Oldtimer,"",Schaltgetriebe manuell,Safenwil,"",Mini,1976,44300,"",MINI,1000,"","","",7,null
+Kombi,Blue,Occasion,"",Automat,Zuzwil,"",Audi,2008,114200,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",7,l_km_consumption
+Limousine,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Subaru,2006,161500,"",IMPREZA,Impreza 2.5T WRX,"","","",4,l_km_consumption
+Kombi,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2009,59900,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",3,l_km_consumption
+SUV / Geländewagen,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Porsche,2003,127000,"",CAYENNE,Cayenne Turbo,"","","",4,l_km_consumption
+Coupé,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1999,47700,"",911,911 Carrera 4,"","","",11,l_km_consumption
+Limousine,Green,Occasion,"",Automat sequentiell,Zuzwil,"",VW,2002,43900,"",PHAETON,Phaeton 6.0 W12 4Motion,"","","",11,l_km_consumption
+Cabriolet,Green,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2004,7600,"",SL 500,SL 500,"","","",5,l_km_consumption
+Cabriolet,Green,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,2003,53600,"",F360,F360 Spider,"","","",3,l_km_consumption
+Coupé,Red,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,2006,4400,"",F430,F430,"","","",3,l_km_consumption
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",VW,2002,15900,"",PHAETON,Phaeton 6.0 W12 4Motion,"","","",11,l_km_consumption
+Cabriolet,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2002,38700,"",SLK 230,SLK 230 Kompressor,"","","",5,l_km_consumption
+Coupé,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Lamborghini,2007,42000,"",GALLARDO,Gallardo Superleggera,"","","",6,l_km_consumption
+Limousine,Black,Occasion,"",null,Zuzwil,"",Renault,1972,14873,"",R12,Gordini,"","","",4,null
+SUV / Geländewagen,Black,Occasion,"",Automat,Zuzwil,"",Land Rover,1995,70400,"",RANGE ROVER,Range Rover 4.6 HSE,"","","",11,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1997,39800,"",SL 500,SL 500,"","","",8,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Chrysler,2000,66900,"",VIPER,Viper GTS,"","","",12,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",Ford,1986,1000,"","",RS200 EVO Gruppe B,"","","",8,null
+Limousine,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",BMW,2001,124800,"",330,330xi,"","","",11,l_km_consumption
+Limousine,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2005,78700,"",CLS 500,CLS 500,"","","",4,l_km_consumption
+SUV / Geländewagen,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,126300,"",ML 350,ML 350 Inspiration,"","","",10,l_km_consumption
+Coupé,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,2005,8000,"",F360,F360 Modena Berlinetta,"","","",3,l_km_consumption
+Coupé,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,2002,51200,"",575M,575M,"","","",7,l_km_consumption
+Cabriolet,Purple,Neu,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Porsche,2014,450,"",911,911 Turbo S Cabrio,"","","",5,l_km_consumption
+Limousine,Purple,Occasion,"",Automatik-Getriebe,Zuzwil,"",Bentley,1979,175100,"","",T 2,"","","",2,null
+Kompaktvan / Minivan,Yellow,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Daewoo,2003,103000,"",TACUMA,Tacuma 2000i CDX,"","","",10,l_km_consumption
+Limousine,Gold,Occasion,"",Automat,Zuzwil,"",Daimler,1996,94800,"",XJ,Six 4.0,"","","",1,null
+Coupé,Green,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2004,47500,"",911,911 Turbo,"","","",1,l_km_consumption
+Limousine,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",BMW,1998,93000,"",540,540i,"","","",11,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Porsche,2003,114000,"",CAYENNE,Cayenne Turbo,"","","",8,l_km_consumption
+Limousine,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ford,1994,11000,"",ESCORT,Escort 2.0i RS Cosworth,"","","",4,null
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1998,63400,"",E 55 AMG,E 55 AMG Avantgarde,"","","",2,l_km_consumption
+Coupé,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2001,27800,"",CL 500,CL 500,"","","",1,l_km_consumption
+Limousine,Blue,Occasion,"",Automat,Zuzwil,"",Bentley,1999,44600,"",ARNAGE,Arnage Green Label,"","","",2,l_km_consumption
+Kombi,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2002,21400,"",RS6,RS6 Avant quattro,"","","",7,l_km_consumption
+Limousine,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Fiat,2006,28800,"",STILO,Stilo 1.8 16V Swiss,"","","",8,l_km_consumption
+Coupé,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",Maserati,2002,62300,"",COUPÉ GT,Coupé GT,"","","",6,l_km_consumption
+Coupé,Silver,Oldtimer,"",Schaltgetriebe,Zuzwil,"",Toyota,1981,79300,"",CELICA,1600 GT DOHC,"","","",10,null
+Limousine,White,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,1996,143700,"",A8,A8 4.2 quattro,"","","",3,l_km_consumption
+Kombi,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2003,64500,"",RS6,RS6 Avant quattro,"","","",5,l_km_consumption
+SUV / Geländewagen,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2013,25100,"",ML 63 AMG,ML 63 AMG 4Matic,"","","",1,l_km_consumption
+Cabriolet,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,32500,"",SL 600,SL 600,"","","",5,l_km_consumption
+Limousine,Other,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2006,97300,"",S 65 AMG,S 65 AMG L,"","","",6,l_km_consumption
+Cabriolet,Grey,Oldtimer,"",Schaltgetriebe,Zuzwil,"",Austin-healey,1960,9999,"","",BT7 3000 Mk I,"","","",1,null
+Limousine,Green,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,1987,195800,"",M3,M3,"","","",2,null
+Cabriolet,Red,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2004,20900,"",SL 600,SL 600,"","","",5,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2008,25700,"",135,135i,"","","",10,l_km_consumption
+Kombi,Black,Occasion,"",Automat,Zuzwil,"",Audi,1997,91900,"",S6,S6 Avant quattro 4.2,"","","",6,l_km_consumption
+Coupé,Black,Occasion,"",Automat,Zuzwil,"",Honda,1998,186000,"",ACCORD,Accord Coupé V6 3.0i VTEC,"","","",7,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2006,8000,"",SL 500,SL 500,"","","",5,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",BMW,1979,157400,"","",323 i E21,"","","",5,null
+Coupé,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,22400,"",CL 600,CL 600,"","","",7,l_km_consumption
+Coupé,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,48300,"",CL 55 AMG,CL 55 AMG,"","","",11,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1970,57700,"",Alpine A110,1600S,"","","",3,null
+Limousine,Other,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1997,67400,"",E 50 AMG,E 50 AMG Avantgarde,"","","",3,l_km_consumption
+Cabriolet,White,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Maserati,2003,78300,"",SPYDER GT,Spyder GT,"","","",5,l_km_consumption
+Limousine,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1991,91600,"",500,500 SE,"","","",8,null
+Coupé,White,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1993,26800,"",S 600,S 600,"","","",8,null
+Cabriolet,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2005,20400,"",911,911 Carrera Cabrio,"","","",6,l_km_consumption
+Limousine,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1998,47400,"",E 55 AMG,E 55 AMG Avantgarde,"","","",3,l_km_consumption
+Coupé,Grey,Occasion,"",Automat,Zuzwil,"",Porsche,2001,135800,"",911,911 Carrera,"","","",4,l_km_consumption
+Kleinwagen,Grey,Oldtimer,"",Schaltgetriebe,Zuzwil,"",Renault,1969,45000,"","",R8 Gordini,"","","",4,null
+SUV / Geländewagen,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",Lincoln,2003,130000,"",Navigator,32 V,"","","",3,null
+Limousine,Red,Occasion,"",Automat,Zuzwil,"",Jaguar,2000,44200,"",S-TYPE,S-Type 4.0 V8,"","","",1,l_km_consumption
+Coupé,Black,Oldtimer,"",null,Basel,"",Rolls-royce,1980,32000,"",CORNICHE,II Coupé,"","","",7,null
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2000,74500,"",S 500,S 500 L,"","","",5,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat,Zuzwil,"",Land Rover,1994,87000,"",RANGE ROVER,Range Rover 4.6 HSE,"","","",11,l_km_consumption
+Limousine,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2010,29800,"",E 250,E 250 CGI BlueEff Avgarde,"","","",6,l_km_consumption
+Coupé,Other,Occasion,"",Schaltgetriebe,Zuzwil,"",Chevrolet,1967,21300,"",CORVETTE,C2,"","","",6,null
+Limousine,Blue,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Mercedes-benz,2013,23900,"",E 63 AMG,E 63 AMG S 4Matic,"","","",7,l_km_consumption
+Cabriolet,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,1990,27700,"",Z1,null,"","","",2,null
+Limousine,Grey,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Maserati,2006,46050,"",QUATTROPORTE,Quattroporte 4.2,"","","",6,l_km_consumption
+SUV / Geländewagen,Grey,Occasion,"",Automat,Zuzwil,"",Land Rover,1996,54600,"",RANGE ROVER,Range Rover 4.6 HSE,"","","",12,l_km_consumption
+Kombi,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2008,36700,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",6,l_km_consumption
+Coupé,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2008,36000,"",CLK 63 AMG,CLK 63 AMG Black Series,"","","",7,l_km_consumption
+Cabriolet,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Mercedes-benz,2011,13800,"",SLK 200,SLK 200,"","","",5,l_km_consumption
+Cabriolet,Green,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,2003,103600,"",Z4,Z4 2.5i Roadster,"","","",3,l_km_consumption
+Cabriolet,Green,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Mercedes-benz,2000,43200,"",SLK 320,SLK 320,"","","",5,l_km_consumption
+Kombi,Red,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2005,140200,"",E 350,E 350 Elégance 4Matic,"","","",4,l_km_consumption
+Limousine,Red,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,1999,29800,"",M5,M5,"","","",4,l_km_consumption
+Cabriolet,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ferrari,1998,34600,"",F355,F355 Spider,"","","",7,l_km_consumption
+Limousine,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1960,177000,"","",DAUPHINE GORDINI,"","","",7,null
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Bentley,2007,50900,"",CONTINENTAL,Continental GTC 6.0,"","","",7,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,34500,"",SL 55 AMG,SL 55 AMG,"","","",8,l_km_consumption
+Cabriolet,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Lotus,2001,75100,"",ELISE,Elise,"","","",6,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2003,85200,"",911,911 Turbo,"","","",6,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2003,21800,"",X5,X5 4.6is,"","","",6,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Toyota,1979,240500,"",LAND CRUISER,BJ 40 LT,"","","",7,null
+Limousine,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2005,27800,"",M5,M5,"","","",4,l_km_consumption
+Limousine,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2002,52400,"",E 55 AMG,E 55 AMG Avantgarde,"","","",10,l_km_consumption
+Pick-up,White,Occasion,"",Automatik-Getriebe,Zuzwil,"",Chevrolet,2007,34500,"",Silverado,2500HD 6.6l V8,"","","",2,null
+Coupé,Grey,Occasion,"",Schaltgetriebe,Zuzwil,"",Bugatti,1998,4000,"",EB,110 GT/SS,"","","",8,null
+Kleinwagen,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Fiat,2004,75200,"",PUNTO,Punto 1.8 16V HGT,"","","",5,l_km_consumption
+Limousine,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",VW,2003,119000,"",PHAETON,Phaeton 4.2 V8 4Motion,"","","",11,l_km_consumption
+Cabriolet,Green,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Mercedes-benz,2008,62700,"",SL 63 AMG,SL 63 AMG,"","","",6,l_km_consumption
+Coupé,Green,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1993,99500,"",S 600,S 600,"","","",4,null
+Coupé,Orange,Occasion,"",Schaltgetriebe,Porrentruy,"",Lamborghini,1996,7000,"",DIABLO,SV-R Race,"","","",0,null
+Cabriolet,Red,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1990,148600,"",944,944 S2 Cabriolet ABS,"","","",4,null
+Limousine,Red,Occasion,"",Automatik-Getriebe,Zuzwil,"",Bentley,1986,101500,"",Mulsanne,Turbo,"","","",9,null
+Coupé,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,41100,"",CL 600,CL 600,"","","",11,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1990,23800,"",SL 500,SL 500,"","","",7,null
+Cabriolet,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2012,19400,"",SLK 55 AMG,SLK 55 AMG,"","","",9,l_km_consumption
+Kombi,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2008,29300,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",6,l_km_consumption
+Kombi,Silver,Occasion,"",Automat,Zuzwil,"",Audi,2003,34000,"",RS6,RS6 Avant quattro,"","","",3,l_km_consumption
+Limousine,Silver,Vorführmodell,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2007,100,"",E 320,E 320 CDI Avantgarde,"","","",6,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2002,68100,"",911,911 Carrera 4 S,"","","",3,l_km_consumption
+Limousine,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,1997,69600,"",750,750i,"","","",3,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Porrentruy,"",Lamborghini,2003,9000,"",MURCIÉLAGO,Murciélago 6.2 Coupé,"","","",2,l_km_consumption
+SUV / Geländewagen,White,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,2003,115000,"",CAYENNE,Cayenne S,"","","",3,l_km_consumption
+Cabriolet,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2004,14500,"",SL 600,SL 600,"","","",4,l_km_consumption
+Cabriolet,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2008,2400,"",SLR,McLaren Roadster,"","","",6,null
+Coupé,Grey,Occasion,"",Automatik-Getriebe,Zuzwil,"",Chevrolet,1981,27700,"",CORVETTE,null,"","","",1,null
+Limousine,Other,Occasion,"",Automat,Zuzwil,"",Audi,1997,125400,"",A8,A8 4.2 quattro,"","","",9,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1992,129700,"",SL 500,SL 500,"","","",2,null
+Limousine,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Maserati,2008,58900,"",QUATTROPORTE,Quattroporte 4.2 Sport GT,"","","",4,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1985,97000,"",SL-CLASS,500 SL,"","","",5,null
+Coupé,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2000,33000,"","",CL 5.8 BRABUS,"","","",1,null
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",Bentley,2002,36000,"",ARNAGE,Arnage T,"","","",6,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,45200,"",SL 55 AMG,SL 55 AMG,"","","",2,l_km_consumption
+Limousine,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,1999,33900,"",735,735i,"","","",8,l_km_consumption
+Limousine,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,1999,68500,"",M5,M5,"","","",1,l_km_consumption
+Coupé,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2004,88000,"",M3,M3 CSL,"","","",7,l_km_consumption
+Limousine,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Nissan,1992,98000,"",SUNNY,Sunny 2.0 16V GTI-R,"","","",2,null
+Cabriolet,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,2004,21400,"",911,911 Turbo Cabrio,"","","",9,l_km_consumption
+Cabriolet,White,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,81000,"",SL 55 AMG,SL 55 AMG,"","","",1,l_km_consumption
+Limousine,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,1997,123400,"",C 230,C 230 Elégance,"","","",2,l_km_consumption
+Cabriolet,Grey,Oldtimer,"",Schaltgetriebe manuell,Safenwil,"",Austin-healey,1959,16900,"","",100/Six BN6 Roadster,"","","",1,null
+Cabriolet,Grey,Occasion,"",null,Zuzwil,"",Lotus,2002,26800,"",Super Seven,HKT,"","","",9,null
+Coupé,Green,Occasion,"",Schaltgetriebe manuell,Porrentruy,"",Lamborghini,1995,64800,"",DIABLO,Diablo SE 30,"","","",9,null
+Limousine,Green,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2006,118300,"",CLS 55 AMG,CLS 55 AMG,"","","",2,l_km_consumption
+Coupé,Other,Occasion,"",Schaltgetriebe,Zuzwil,"",Ford (usa),2012,92000,"",MUSTANG,Shelby GT500,"","","",3,null
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Lotus,1969,62200,"",EUROPA,null,"","","",3,null
+Kombi,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2008,38500,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",5,l_km_consumption
+Limousine,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Rolls-royce,1983,99300,"",Silver Spirit,Mk. I,"","","",4,null
+SUV / Geländewagen,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Land Rover,2010,15000,"",RANGE ROVER SPORT,Range Rover Sport 5.0 V8 SC,"","","",9,l_km_consumption
+Limousine,Black,Occasion,"",null,Zuzwil,"",BMW,1973,129800,"",3.0,CSL,"","","",1,null
+Coupé,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Lamborghini,2016,2100,"",HURACAN,Huracan LP610-4 Coupé,"","","",1,l_km_consumption
+Coupé,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,2004,113800,"",612,612,"","","",7,l_km_consumption
+Coupé,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1998,61000,"",CLK 320,CLK 320 Sport,"","","",6,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2004,21400,"",SL 55 AMG,SL 55 AMG,"","","",4,l_km_consumption
+Limousine,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,2000,62300,"",M5,M5,"","","",8,l_km_consumption
+Coupé,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",BMW,2004,79100,"",645,645i,"","","",1,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2006,101200,"",911,911 Carrera 4S,"","","",2,l_km_consumption
+Limousine,Other,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1999,32000,"",S 500,S 500,"","","",10,l_km_consumption
+Coupé,White,Occasion,"",Automatik-Getriebe,Zuzwil,"",Maserati,2002,95300,"",COUPÉ GT,Coupé GT,"","","",7,l_km_consumption
+SUV / Geländewagen,White,Neu,"",Automat sequentiell,Zuzwil,"",Porsche,2007,10,"",CAYENNE,Cayenne Turbo,"","","",1,l_km_consumption
+Limousine,White,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Porsche,2009,30300,"",PANAMERA,Panamera Turbo 4.8,"","","",9,l_km_consumption
+Limousine,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Mercedes-benz,1990,162000,"",190,190 E 2.5-16 ABS,"","","",10,null
+SUV / Geländewagen,Other,Occasion,"",Automat,Zuzwil,"",Land Rover,2007,99900,"",RANGE ROVER,Range Rover 3.6 d HSE,"","","",2,l_km_consumption
+Cabriolet,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1999,34400,"",911,911 Carrera Cabrio,"","","",1,l_km_consumption
+SUV / Geländewagen,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Porsche,2003,68700,"",CAYENNE,Cayenne Turbo,"","","",6,l_km_consumption
+SUV / Geländewagen,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Porsche,2004,31000,"",CAYENNE,Cayenne Turbo,"","","",9,l_km_consumption
+Cabriolet,Grey,Occasion,"",Schaltgetriebe,Zuzwil,"",Dodge,1994,37900,"",VIPER,null,"","","",4,null
+Coupé,Other,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Renault,1981,153600,"",ALPINE,Alpine A310 V6,"","","",5,null
+Limousine,Green,Occasion,"",Automat,Zuzwil,"",BMW,2007,114600,"",730,730i,"","","",9,l_km_consumption
+Cabriolet,Green,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Saab,2003,138000,"",9-3,9-3 2.0i-16 T SE,"","","",5,l_km_consumption
+Limousine,Red,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2006,43700,"",C 350,C 350 Elégance 4Matic,"","","",11,l_km_consumption
+Kombi,Red,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2002,71900,"",RS6,RS6 Avant quattro,"","","",9,l_km_consumption
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",BMW,1995,111900,"",750,750iL,"","","",1,l_km_consumption
+Limousine,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Maserati,2006,24300,"",QUATTROPORTE,Quattroporte 4.2 Sport GT,"","","",10,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,2001,79500,"",330,330Ci,"","","",3,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Nissan,2002,15000,"",Skyline,Rennwagen,"","","",1,null
+Coupé,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2004,48300,"",CL 65 AMG,CL 65 AMG,"","","",2,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Kaiser,1966,18000,"","",CJ-5 12V ARMEEFAHRZEUG,"","","",9,null
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Talbot,1982,40100,"","",Sunbeam Lotus,"","","",3,null
+Coupé,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2012,500,"",C 63 AMG,BLACK SERIES,"","","",3,null
+Limousine,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Volvo,2001,145000,"",S60,S60 2.4T,"","","",4,l_km_consumption
+Limousine,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2002,35100,"",A8,A8 4.2 quattro,"","","",8,l_km_consumption
+SUV / Geländewagen,White,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2005,37500,"",ML 500,ML 500 4Matic,"","","",12,l_km_consumption
+Limousine,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",VW,2003,37800,"",PHAETON,Phaeton 6.0 W12 4Motion,"","","",1,l_km_consumption
+Limousine,White,Occasion,"",Automat sequentiell,Zuzwil,"",VW,2005,48300,"",PHAETON,Phaeton 3.0 TDi V6 4M,"","","",6,l_km_consumption
+Limousine,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2003,106000,"",E 240,E 240 Avantgarde,"","","",3,l_km_consumption
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Volvo,2001,27900,"",C70,C70 T5,"","","",2,l_km_consumption
+Kombi,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Audi,2001,37800,"",RS4,RS4 Avant quattro,"","","",2,l_km_consumption
+Cabriolet,Purple,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1993,63600,"",SL 300,SL 300,"","","",6,null
+Cabriolet,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2006,29500,"",911,911 Carrera S Cabrio,"","","",3,l_km_consumption
+Coupé,Grey,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,2004,45000,"",612,612,"","","",7,l_km_consumption
+Coupé,Grey,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,2000,41500,"",F360,F360 Modena Berlinetta,"","","",4,l_km_consumption
+Cabriolet,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2004,45500,"",SL 55 AMG,SL 55 AMG,"","","",4,l_km_consumption
+Cabriolet,Grey,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Lamborghini,2011,4900,"",GALLARDO,Gallardo LP560-4 Spyder,"","","",4,l_km_consumption
+Cabriolet,Red,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,36800,"",SL 55 AMG,SL 55 AMG,"","","",5,l_km_consumption
+Coupé,Red,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,2002,29000,"",911,911 Turbo,"","","",1,l_km_consumption
+Cabriolet,Red,Occasion,"",Automat,Zuzwil,"",Jaguar,2002,77600,"",XK,XKR S/C Convertible,"","","",4,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2000,3600,"",X5,X5 4.4i,"","","",12,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2004,54100,"",911,911 GT2,"","","",3,l_km_consumption
+Limousine,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Opel,2006,90600,"",VECTRA,Vectra 2.8 T V6 Cosmo,"","","",5,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2002,23800,"",X5,X5 4.6is,"","","",2,l_km_consumption
+Coupé,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Maserati,2002,23200,"",COUPÉ GT,Coupé GT,"","","",10,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Renault,1982,31000,"",ALPINE,Alpine A310 V6,"","","",10,null
+Kleinwagen,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Renault,2008,147900,"",CLIO,Clio 2.0 16V Sport,"","","",2,l_km_consumption
+Cabriolet,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,2002,23900,"",M3,M3,"","","",11,l_km_consumption
+SUV / Geländewagen,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2000,41900,"",X5,X5 4.4i,"","","",11,l_km_consumption
+Limousine,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",BMW,1974,97100,"",2002,Turbo,"","","",3,null
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1992,123000,"",911,911 Carrera 2 RS,"","","",1,null
+Limousine,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",VW,2007,87000,"",GOLF,Golf 2.0 TFSI GTI,"","","",2,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1996,74400,"",SL 500,SL 500,"","","",6,l_km_consumption
+Coupé,White,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2000,94000,"",CL 600,CL 600,"","","",11,l_km_consumption
+Kombi,White,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2009,31500,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",1,l_km_consumption
+Coupé,White,Occasion,"",Automat,Zuzwil,"",Jaguar,1999,103000,"",XK,XKR S/C,"","","",11,l_km_consumption
+Limousine,White,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,1998,39700,"",M5,M5,"","","",10,l_km_consumption
+SUV / Geländewagen,Blue,Occasion,"",Automat,Zuzwil,"",Land Rover,1998,49700,"",RANGE ROVER,Range Rover 4.6 HSE,"","","",5,l_km_consumption
+Coupé,Blue,Occasion,"",Schaltgetriebe,Zuzwil,"",BMW-alpina,1984,150200,"",7 SERIES,B7 Turbo Coupé,"","","",4,null
+Cabriolet,Blue,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2002,142000,"",M3,M3,"","","",3,l_km_consumption
+Coupé,Grey,Occasion,"",Automatik-Getriebe,Zuzwil,"",Aston Martin,1991,68800,"",Virage,Virage,"","","",4,null
+Limousine,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,1997,66300,"",A8,A8 4.2 quattro,"","","",1,l_km_consumption
+Limousine,Green,Occasion,"",Automat sequentiell,Porrentruy,"",Mercedes-benz,2011,19900,"",S 500,S 500 L,"","","",9,l_km_consumption
+Coupé,Green,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,2003,14500,"",575M,NOVITEC,"","","",6,null
+Limousine,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Trabant,2009,999,"","",1300S Trabusa,"","","",1,null
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2003,94500,"",760,760i L,"","","",1,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Ford,1973,36100,"",CAPRI,RS 2600,"","","",3,null
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2002,44000,"",A8,A8 4.2 quattro,"","","",12,l_km_consumption
+Kombi,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Audi,2001,72600,"",RS4,RS4 Avant quattro,"","","",2,l_km_consumption
+Coupé,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2008,45000,"",CLK 63 AMG,CLK 63 AMG Black Series,"","","",6,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2002,38200,"",911,911 GT2,"","","",5,l_km_consumption
+Coupé,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2009,34000,"",SL 65 AMG,BLACK SERIES,"","","",7,null
+Cabriolet,Silver,Occasion,"",Automat,Zuzwil,"",Rolls-royce,2001,38000,"",CORNICHE,Corniche,"","","",7,l_km_consumption
+Coupé,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Mclaren,2012,19900,"",12C,MP4-12C Coupé 3.8 V8,"","","",4,l_km_consumption
+Limousine,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",BMW,1974,93500,"",2002,tii,"","","",4,null
+Limousine,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2006,31500,"",M5,M5,"","","",6,l_km_consumption
+Limousine,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2007,94000,"",S 65 AMG,S 65 AMG L,"","","",1,l_km_consumption
+Coupé,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Lamborghini,2010,20800,"",MURCIÉLAGO,Murciélago LP670-4 SV Cpé,"","","",5,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1996,156800,"",SL 320,SL 320,"","","",7,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Lamborghini,1993,14990,"",DIABLO,Diablo 5.7 VT,"","","",8,null
+Coupé,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1969,9999,"",Alpine A110,1300S,"","","",9,null
+Kombi,Blue,Occasion,"",Automat,Zuzwil,"",Audi,2002,39300,"",RS6,RS6 Avant quattro,"","","",8,l_km_consumption
+Coupé,Yellow,Occasion,"",Automatik-Getriebe,Zuzwil,"",Maserati,2000,64600,"",3200 GT,3200 GT,"","","",3,l_km_consumption
+Limousine,Yellow,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Mercedes-benz,1991,89700,"",190,190 E 2.5-16 Evo II ABS,"","","",7,null
+Kleinwagen,Gold,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Renault,1985,59900,"",R5,R5 Turbo 2,"","","",5,null
+Coupé,Grey,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Audi,2007,65000,"",R8,R8 Coupé 4.2,"","","",6,l_km_consumption
+Limousine,Green,Occasion,"",Schaltgetriebe,Zuzwil,"",BMW,1980,176000,"",323,323i,"","","",10,l_km_consumption
+Coupé,Orange,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,2007,5000,"",911,GT3 CUP Rennwagen,"","","",1,null
+Coupé,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Lamborghini,2011,19300,"",GALLARDO,Gallardo LP570-4 Coupé SL,"","","",1,l_km_consumption
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,121900,"",S 55 AMG,S 55 AMG,"","","",3,l_km_consumption
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",BMW-alpina,1998,94400,"",5 SERIES,B10 4.6 S.Tronic,"","","",10,l_km_consumption
+Cabriolet,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Yes!,2007,9400,"","",Roadster 3.2,"","","",9,null
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1984,108500,"",911,911 Carrera,"","","",2,null
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",Audi,1999,19900,"",A8,A8 3.7,"","","",6,l_km_consumption
+Limousine,Other,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2004,120900,"",CLS 500,CLS 500,"","","",11,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat,Zuzwil,"",Land Rover,1995,46500,"",RANGE ROVER,Range Rover 4.6 HSE,"","","",12,l_km_consumption
+Coupé,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Audi,2009,26500,"",R8,R8 Coupé 5.2,"","","",7,l_km_consumption
+Coupé,Black,Occasion,"",Automat,Zuzwil,"",Maserati,1996,40600,"",GHIBLI,Ghibli 2.8 GT,"","","",3,null
+Limousine,Blue,Occasion,"",Schaltgetriebe,Zuzwil,"",Nsu,1971,75000,"","",TTS,"","","",7,null
+Coupé,Silver,Vorführmodell,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,2008,26000,"",599,599 GTB,"","","",4,l_km_consumption
+Coupé,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2000,75400,"",CL 600,CL 600,"","","",2,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe,Sursee,"",Mercedes-benz,1955,5000,"",300,300SL W198,"","","",5,null
+SUV / Geländewagen,Silver,Occasion,"",Automat,Zuzwil,"",Porsche,2003,156000,"",CAYENNE,Cayenne Turbo,"","","",1,l_km_consumption
+Coupé,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,2000,25000,"",F360,F360 Modena Berlinetta,"","","",11,l_km_consumption
+Coupé,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",Alfa Romeo,2008,37000,"",8C,Coupé,"","","",3,null
+Limousine,White,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Triumph,1977,10800,"",Dolomite,Sprint,"","","",6,null
+Limousine,White,Occasion,"",Automat,Zuzwil,"",Jaguar,1996,99900,"",XJ,XJR 4.0 Supercharged,"","","",1,l_km_consumption
+Limousine,White,Occasion,"",Automat,Zuzwil,"",Rolls-royce,2004,56000,"",PHANTOM,Phantom 6.7 V12,"","","",1,l_km_consumption
+Cabriolet,White,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2001,15600,"",SL 500,SL 500,"","","",11,l_km_consumption
+Kombi,White,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2004,55000,"",RS6,RS6 Avant quattro,"","","",3,l_km_consumption
+Cabriolet,Blue,Occasion,"",Automat,Zuzwil,"",BMW-alpina,2007,66800,"",6 SERIES,B6 4.4 V8 Cabrio,"","","",4,l_km_consumption
+Coupé,Other,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2012,12100,"",C 63 AMG,BLACK SERIES (Coupé),"","","",8,null
+Limousine,Purple,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2005,128000,"",S 500,S 500,"","","",11,l_km_consumption
+Kombi,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2002,38500,"",RS6,RS6 Avant quattro,"","","",11,l_km_consumption
+Limousine,Grey,Occasion,"",Automatik-Getriebe,Zuzwil,"",BMW,1995,65400,"",740,740i,"","","",7,null
+Coupé,Red,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1982,82400,"",ALPINE,V6,"","","",11,null
+Coupé,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Lamborghini,2008,28500,"",GALLARDO,Gallardo LP560-4 Coupé,"","","",6,l_km_consumption
+Limousine,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Audi,2001,49300,"",S8,S8 4.2 quattro,"","","",3,l_km_consumption
+Limousine,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Maserati,2006,9800,"",QUATTROPORTE,Quattroporte 4.2,"","","",12,l_km_consumption
+Cabriolet,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1996,81900,"",911,911 Carrera Cabrio,"","","",8,l_km_consumption
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2005,66100,"",CLS 500,CLS 500,"","","",3,l_km_consumption
+Limousine,Black,Oldtimer,"",null,Zuzwil,"",Mercedes-benz,1973,110200,"",450,SLC,"","","",8,null
+Coupé,Black,Neu,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Mclaren,2012,55,"",12C,MP4-12C 3.8 V8,"","","",6,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Hyundai,2007,26900,"",COUPÉ,Coupé 2.7 24V FX,"","","",4,l_km_consumption
+Cabriolet,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Opel,2004,9000,"",SPEEDSTER,Speedster 2.2 16V,"","","",6,l_km_consumption
+Kombi,Black,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2007,72000,"",550,550i Touring,"","","",4,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Porsche,2004,75600,"",911,911 Carrera 4 S Cabrio,"","","",3,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,123400,"",SLK 32 AMG,SLK 32 AMG,"","","",8,l_km_consumption
+Kombi,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Saab,2002,117100,"",9-5,9-5 2.3T Aero,"","","",7,l_km_consumption
+"",Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Harley-davidson,2006,100,"","",HPU Hurricane TC,"","","",4,null
+Cabriolet,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Renault,1997,23500,"",SPORT SPIDER,Spider 2.0 16V TURBO,"","","",6,l_km_consumption
+Coupé,Silver,Oldtimer,"",Schaltgetriebe,Zuzwil,"",Mg,1930,86000,"","",M Roadster,"","","",6,null
+Limousine,Blue,Occasion,"",Automat,Zuzwil,"",Bentley,2012,29000,"",CONTINENTAL,Continental FlyingSpur6.0,"","","",5,l_km_consumption
+Limousine,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2005,33600,"",M5,M5,"","","",4,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ferrari,1998,41300,"",F355,F355 Berlinetta,"","","",7,l_km_consumption
+Limousine,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1989,198000,"",190,190 E 2.5-16 ABS,"","","",1,null
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ferrari,1992,16500,"",MONDIAL,Mondial 3.4 T,"","","",5,null
+Coupé,White,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Mclaren,2012,23000,"",12C,MP4-12C Coupé 3.8 V8,"","","",3,l_km_consumption
+Cabriolet,Yellow,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Morgan,2006,7100,"",4/4,4/4 1.8,"","","",6,l_km_consumption
+Kombi,Other,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2008,32800,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",6,l_km_consumption
+Limousine,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2001,205500,"",S 55 AMG,S 55 AMG,"","","",7,l_km_consumption
+Kombi,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2004,93500,"",RS6,RS6 Avant quattro,"","","",1,l_km_consumption
+Cabriolet,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2007,68900,"",BOXSTER,Boxster S 3.4,"","","",2,l_km_consumption
+Limousine,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Audi,1998,54500,"",S6,S6 quattro 4.2,"","","",5,l_km_consumption
+Coupé,Grey,Occasion,"",Automat,Zuzwil,"",Ferrari,2000,68000,"",456,456M GTA,"","","",5,l_km_consumption
+Coupé,Green,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Audi,2007,61300,"",R8,R8 Coupé 4.2,"","","",9,l_km_consumption
+Limousine,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2005,21700,"",M5,M5,"","","",5,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Chevrolet,1994,68200,"",CORVETTE,Corvette 5.7 LT1 Convert.,"","","",7,l_km_consumption
+Coupé,Black,Neu,"",Schaltgetriebe manuell,Zuzwil,"",Lotus,2002,150,"",ESPRIT,Esprit 3.5 V8 SE,"","","",6,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1978,90000,"",Alpine A110,Modell 1400 FASA,"","","",7,null
+Cabriolet,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2008,3200,"",SLK 350,SLK 350,"","","",5,l_km_consumption
+Cabriolet,Silver,Neu,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2009,160,"",SLK 200,SLK 200 Kompressor,"","","",7,l_km_consumption
+Coupé,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2003,35000,"",M3,M3 CSL,"","","",11,l_km_consumption
+Coupé,White,Oldtimer,"",Schaltgetriebe,Zuzwil,"",Renault,1979,11200,"",ALPINE,A310 2700 VA,"","","",11,null
+Coupé,White,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2001,47500,"",CLK 55 AMG,CLK 55 AMG Avantgarde,"","","",11,l_km_consumption
+Limousine,White,Occasion,"",Automat,Zuzwil,"",Bentley,2000,34900,"",ARNAGE,Arnage Green Label,"","","",7,l_km_consumption
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Renault,1981,68900,"",ALPINE,Alpine A310 V6,"","","",5,null
+Limousine,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2006,39800,"",S 65 AMG,S 65 AMG L,"","","",3,l_km_consumption
+Limousine,Green,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,1999,54600,"",M5,M5,"","","",9,l_km_consumption
+Coupé,Green,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ferrari,1994,34000,"",348,348 tb,"","","",3,null
+Limousine,Green,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Audi,2010,34800,"",S3,S3 2.0 TFSI quattro,"","","",4,l_km_consumption
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Lamborghini,2002,16000,"",MURCIÉLAGO,Murciélago 6.2 Coupé,"","","",5,l_km_consumption
+Cabriolet,Blue,Occasion,"",Schaltgetriebe,Zuzwil,"",Mercedes-benz,1967,47700,"","",SL 250 Pagode,"","","",1,null
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,70000,"",SL 600,SL 600,"","","",4,l_km_consumption
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2007,62000,"",730,730d,"","","",11,l_km_consumption
+Limousine,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Maserati,2006,10600,"",QUATTROPORTE,Quattroporte 4.2,"","","",5,l_km_consumption
+Kompaktvan / Minivan,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",VW,2008,71700,"",TOURAN,Touran 1.4 TSI Trend,"","","",3,l_km_consumption
+Limousine,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1996,56100,"",E 320,E 320 Elégance,"","","",12,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,1996,69800,"",328,328i Coupé,"","","",8,l_km_consumption
+Limousine,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2002,53800,"",E 55 AMG,E 55 AMG Avantgarde,"","","",11,l_km_consumption
+Limousine,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1996,87800,"",E 420,E 420 Avantgarde,"","","",11,l_km_consumption
+Kombi,Blue,Occasion,"",Automat,Zuzwil,"",Audi,2008,79700,"",RS6,RS6 Avant 5.0 V10 quattro,"","","",10,l_km_consumption
+Limousine,Blue,Occasion,"",null,Zuzwil,"",BMW-alpina,1986,199300,"",5 SERIES,B7 TURBO,"","","",5,null
+Coupé,Purple,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,1999,30300,"",F360,F360 Modena Berlinetta,"","","",8,l_km_consumption
+Coupé,Grey,Vorführmodell,"",Automat,Zuzwil,"",Mercedes-benz,2001,100,"",CLK 430,CLK 430 Elégance,"","","",1,l_km_consumption
+Kombi,Red,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2003,47000,"",RS6,RS6 Avant quattro,"","","",9,l_km_consumption
+Limousine,Red,Occasion,"",Automatik-Getriebe,Zuzwil,"",Saab,2005,104400,"",9-3,9-3 2.0T Performance,"","","",4,l_km_consumption
+Kombi,Red,Occasion,"",Automatik-Getriebe,Zuzwil,"",Volvo,2002,83000,"",V70,V70 2.4T,"","","",4,l_km_consumption
+Coupé,Red,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1996,36600,"",CL 600,CL 600,"","","",1,l_km_consumption
+Cabriolet,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Audi,2010,37000,"",R8,R8 Spyder 5.2,"","","",4,l_km_consumption
+Kombi,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW,1997,38000,"",528,528i Touring,"","","",4,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2004,61400,"",911,911 Carrera Jubilé 40,"","","",3,l_km_consumption
+Coupé,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2006,25000,"",SLK 55 AMG,Black Series,"","","",10,null
+Kombi,Black,Vorführmodell,"",Automat sequentiell,Zuzwil,"",Audi,2004,2300,"",RS6,RS6 Avant quattro,"","","",12,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1973,85000,"",Alpine A110,1300,"","","",7,null
+Kombi,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2003,88600,"",RS6,RS6 Avant quattro,"","","",3,l_km_consumption
+SUV / Geländewagen,Black,Neu,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2007,1,"",ML 500,ML 500 4Matic,"","","",3,l_km_consumption
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2001,62900,"",911,911 Turbo,"","","",11,l_km_consumption
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",BMW-alpina,2012,19100,"",5 SERIES,B5 BiTurbo 4.4 V8,"","","",5,l_km_consumption
+Kombi,Black,Occasion,"",Automat,Zuzwil,"",BMW,2007,162000,"",320,320d Touring,"","","",8,l_km_consumption
+Coupé,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2008,43000,"",CL 65 AMG,CL 65 AMG,"","","",5,l_km_consumption
+Limousine,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",Audi,1998,57000,"",S8,S8 4.2 quattro,"","","",1,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1994,111500,"",SL 500,SL 500,"","","",3,null
+Cabriolet,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2008,24000,"",SL 65 AMG,SL 65 AMG,"","","",7,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1994,111500,"",SL 500,SL 500,"","","",3,null
+Cabriolet,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,33000,"",SL 500,SL 500,"","","",4,l_km_consumption
+Limousine,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Audi,2014,3600,"",S7,S7 Sportback 4.0 TFSI V8 quattro,"","","",3,l_km_consumption
+Kombi,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Audi,2001,57500,"",RS4,RS4 Avant quattro,"","","",7,l_km_consumption
+Coupé,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,2008,19999,"",F430,F430 Scuderia,"","","",3,l_km_consumption
+Limousine,White,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2008,46000,"",S 63 AMG,S 63 AMG L,"","","",4,l_km_consumption
+Limousine,White,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2006,62300,"",S 500,S 500 4Matic,"","","",11,l_km_consumption
+Limousine,Blue,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Maserati,2004,62700,"",QUATTROPORTE,Quattroporte 4.2,"","","",6,l_km_consumption
+Coupé,Yellow,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ferrari,1989,31700,"",TESTAR./512,Testarossa,"","","",1,null
+Coupé,Grey,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,2006,15900,"",575M,575M,"","","",12,l_km_consumption
+Coupé,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Aston Martin,2012,5000,"",DBS,DBS Coupé,"","","",4,l_km_consumption
+Limousine,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2004,9900,"",S 320,S 320 CDI,"","","",2,l_km_consumption
+Limousine,Green,Occasion,"",Automat,Zuzwil,"",Audi,1997,63400,"",A8,A8 4.2 quattro,"","","",10,l_km_consumption
+Cabriolet,Green,Occasion,"",Schaltgetriebe,Sursee,"",Ferrari,1974,5000,"",Dino,246 GTS,"","","",3,null
+Limousine,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ford,1990,164400,"",SIERRA,Sierra 2.0i Cosworth 4x4,"","","",9,null
+Cabriolet,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2005,42500,"",SLK 55 AMG,SLK 55 AMG,"","","",4,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat,Zuzwil,"",Porsche,2004,69500,"",CAYENNE,Cayenne Turbo,"","","",11,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1992,108100,"",SL 600,SL 600,"","","",9,null
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2004,33613,"",SL 65 AMG,SL 65 AMG,"","","",9,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Lamborghini,1997,55000,"",DIABLO,Diablo 5.7,"","","",4,null
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1998,30400,"",SL 500,SL 500,"","","",2,l_km_consumption
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Toyota,1976,38700,"",CELICA,2000GT,"","","",11,null
+Kombi,Black,Occasion,"",Automat,Zuzwil,"",Audi,2000,211000,"",S6,S6 Avant quattro,"","","",10,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Renault,1984,78000,"",ALPINE,Alpine A310 V6 VFA-2700 VAA,"","","",5,null
+Cabriolet,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Audi,2012,5900,"",R8,R8 GT Spyder 5.2,"","","",6,l_km_consumption
+Limousine,Blue,Occasion,"",Automat,Zuzwil,"",Jaguar,1997,161400,"",XJ,XJ 4.0 Sovereign,"","","",3,l_km_consumption
+Cabriolet,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2006,12000,"",CARRERA GT,Carrera GT,"","","",12,l_km_consumption
+Cabriolet,Blue,Occasion,"",Automat,Zuzwil,"",Porsche,1999,80400,"",911,911 Carrera 4 Cabrio TECHART,"","","",5,l_km_consumption
+Limousine,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",VW,2002,31300,"",PHAETON,Phaeton 6.0 W12 4Motion,"","","",11,l_km_consumption
+Limousine,White,Occasion,"",Automat,Zuzwil,"",BMW,1998,85400,"",740,740i,"","","",4,l_km_consumption
+Coupé,White,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,12200,"",CL 600,CL 600,"","","",9,l_km_consumption
+Limousine,White,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2007,15800,"",CLS 63 AMG,CLS 63 AMG,"","","",9,l_km_consumption
+Limousine,White,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2010,37500,"",CLS 63 AMG,CLS 63 AMG,"","","",8,l_km_consumption
+Cabriolet,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",VW,2007,27000,"",EOS,Eos 2.0 FSI T,"","","",9,l_km_consumption
+Limousine,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1996,26800,"",E 420,E 420 Elégance,"","","",6,l_km_consumption
+Cabriolet,Grey,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Maserati,2002,88500,"",SPYDER GT,Spyder GT,"","","",6,l_km_consumption
+Cabriolet,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2004,105300,"",SL 350,SL 350,"","","",5,l_km_consumption
+Kombi,Grey,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2002,100200,"",RS6,RS6 Avant quattro,"","","",8,l_km_consumption
+Coupé,Grey,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,2000,69200,"",911,911 Turbo,"","","",7,l_km_consumption
+Coupé,Green,Occasion,"",Schaltgetriebe,Zuzwil,"",Simca,1976,18200,"","",Rallye2,"","","",11,null
+Coupé,Green,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2007,20900,"",911,911 GT2,"","","",12,l_km_consumption
+Cabriolet,Beige,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1996,34000,"",SL 500,SL 500,"","","",6,null
+Coupé,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",BMW,2002,81900,"",330,330Ci,"","","",3,l_km_consumption
+Cabriolet,Red,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,1998,73200,"",BOXSTER,Boxster 2.5,"","","",3,l_km_consumption
+Limousine,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Nissan,1992,98000,"",SUNNY,2.0 16V GTI-R Rallye,"","","",1,null
+Limousine,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Alfa Romeo,1999,56400,"",166,166 3.0 V6 24V Super,"","","",2,l_km_consumption
+Cabriolet,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Rolls-royce,1990,47100,"",CORNICHE,III,"","","",6,null
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1996,125000,"",S 600,S 600 L,"","","",1,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1996,29800,"",SL 500,SL 500,"","","",10,l_km_consumption
+SUV / Geländewagen,Silver,Occasion,"",Automat,Zuzwil,"",Land Rover,2006,126300,"",RANGE ROVER SPORT,Range Rover Sport 4.2 V8 SC,"","","",5,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1984,172800,"",R5,Alpine Turbo,"","","",8,null
+Coupé,Blue,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,2004,42600,"",F360,F360 Modena Berlinetta,"","","",2,l_km_consumption
+Limousine,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Mercedes-benz,1992,152000,"",190,190 E 2.5-16 ABS,"","","",4,null
+Coupé,White,Occasion,"",Schaltgetriebe,Zuzwil,"",Delorean,1981,15000,"","",De Lorean DMC-12,"","","",4,null
+Cabriolet,Purple,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2004,23000,"",SL 600,SL 600,"","","",4,l_km_consumption
+Limousine,Bronze,Occasion,"",Automat,Zuzwil,"",BMW,1998,33700,"",328,328i,"","","",4,l_km_consumption
+Kombi,Other,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2002,38500,"",RS6,RS6 Avant quattro,"","","",10,l_km_consumption
+Limousine,Green,Occasion,"",Automatik-Getriebe,Zuzwil,"",Audi,1998,55000,"",S8,S8 4.2 quattro,"","","",7,l_km_consumption
+Kombi,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2004,123300,"",E 500,E 500 Avantgarde,"","","",4,l_km_consumption
+Kombi,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",BMW,2001,120900,"",530,530i Touring,"","","",5,l_km_consumption
+Coupé,Black,Occasion,"",Automat,Zuzwil,"",Bentley,1994,60000,"",CONTINENTAL,Continental R Coupé,"","","",1,null
+Coupé,Black,Occasion,"",Schaltgetriebe manuell,Sursee,"",Porsche,2011,6300,"",911,911 GT3 RS,"","","",11,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat,Zuzwil,"",Jeep,1996,126200,"",Grand Cherokee,Grand Cherokee 4.0 Ltd.,"","","",12,l_km_consumption
+Kombi,Black,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Audi,2000,51800,"",RS4,RS4 Avant quattro,"","","",11,l_km_consumption
+Coupé,Blue,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Alfa Romeo,1984,75000,"",GTV,GTV 6 2.5,"","","",8,null
+Coupé,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",Porsche,2000,60500,"",911,911 Turbo,"","","",12,l_km_consumption
+Coupé,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2006,72200,"",CL 500,CL 500 Prime Edition,"","","",10,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,64000,"",SL 500,SL 500,"","","",5,l_km_consumption
+SUV / Geländewagen,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2005,14700,"",X5,X5 4.4i,"","","",8,l_km_consumption
+SUV / Geländewagen,Silver,Occasion,"",Automat,Zuzwil,"",BMW,2001,91000,"",X5,X5 4.4i,"","","",12,l_km_consumption
+Coupé,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,1999,53600,"",F355,F355 Berlinetta,"","","",7,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Aston Martin,2013,17000,"",DB9,DB9 Volante,"","","",5,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,2001,49900,"",911,911 GT2,"","","",11,l_km_consumption
+Cabriolet,Blue,Occasion,"",Automatik-Getriebe,Zuzwil,"",Mercedes-benz,2008,32500,"","",CLK DTM AMG,"","","",2,null
+Coupé,Blue,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1977,39267,"",Alpine A110,A5 Motor,"","","",5,null
+Cabriolet,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1998,166550,"",SLK 230,SLK 230 Kompressor,"","","",7,l_km_consumption
+Limousine,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2006,48000,"",S 500,S 500,"","","",6,l_km_consumption
+Limousine,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2000,83900,"",E 320,E 320 Elégance 4-Matic,"","","",3,l_km_consumption
+Coupé,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Ruf,1997,20900,"","",CTR 2 Sport,"","","",10,null
+Cabriolet,Other,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1998,48300,"",SL 500,SL 500,"","","",4,l_km_consumption
+Limousine,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1999,32700,"",S 500,S 500 L,"","","",5,l_km_consumption
+Kombi,Red,Occasion,"",Automat,Zuzwil,"",Audi,2008,112400,"",RS6,RS6 Avant 5.0 V10 quattro 730PS,"","","",7,l_km_consumption
+Coupé,Red,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1998,58200,"",911,911 Carrera,"","","",1,l_km_consumption
+Limousine,Red,Occasion,"",Automat,Zuzwil,"",BMW,1998,63000,"",740,740i,"","","",2,l_km_consumption
+Coupé,Red,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2007,99999,"",CL 600,CL 600,"","","",4,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat,Zuzwil,"",Jeep,1995,133500,"",Grand Cherokee,Grand Cherokee 5.2 Ltd.,"","","",2,null
+Coupé,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Audi,2008,29300,"",TT,TTS Cpé 2.0 TFSI quattro,"","","",8,l_km_consumption
+Limousine,Blue,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,1998,60700,"",750,750i,"","","",3,l_km_consumption
+SUV / Geländewagen,Black,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2001,79900,"",X5,X5 4.4i,"","","",6,l_km_consumption
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2005,1500,"",S 500,S 500,"","","",11,l_km_consumption
+Coupé,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Maserati,2006,38900,"",COUPÉ GT,Coupé GT,"","","",9,l_km_consumption
+Coupé,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1999,47900,"",911,911 GT3,"","","",10,l_km_consumption
+Limousine,Silver,Occasion,"",Automatik-Getriebe,Zuzwil,"",BMW,2003,33600,"",545,545i,"","","",9,l_km_consumption
+Coupé,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2005,8500,"",M6,M6,"","","",7,l_km_consumption
+Limousine,Silver,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,69100,"",S 320,S 320,"","","",3,l_km_consumption
+Cabriolet,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2013,5400,"",650,650i xDrive,"","","",1,l_km_consumption
+Limousine,Silver,Occasion,"",Automat stufenlos,Zuzwil,"",Audi,2002,67700,"",A6,A6 2.4,"","","",7,l_km_consumption
+Kombi,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,2002,47400,"",RS6,RS6 Avant quattro,"","","",12,l_km_consumption
+Cabriolet,Blue,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Porsche,2009,52000,"",911,911 Turbo Cabrio,"","","",12,l_km_consumption
+SUV / Geländewagen,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2002,60100,"",X5,X5 4.4i,"","","",3,l_km_consumption
+SUV / Geländewagen,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Toyota,1982,5000,"",LAND CRUISER,FJ 40,"","","",2,null
+Cabriolet,White,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,43000,"",SL 600,SL 600,"","","",1,l_km_consumption
+Limousine,White,Occasion,"",Automat,Zuzwil,"",Rolls-royce,2004,54000,"",PHANTOM,Phantom 6.7 V12,"","","",11,l_km_consumption
+Coupé,Blue,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,52500,"",CLK 55 AMG,CLK 55 AMG Avantgarde,"","","",6,l_km_consumption
+Limousine,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2002,54500,"",S 500,S 500 L 4Matic,"","","",12,l_km_consumption
+Coupé,Grey,Occasion,"",Automatik-Getriebe,Zuzwil,"",Ferrari,2003,8100,"",575M,575M,"","","",12,l_km_consumption
+Cabriolet,Grey,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2004,20000,"",SL 600,SL 600,"","","",3,l_km_consumption
+Coupé,Grey,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Porsche,1996,88100,"",911,911 Turbo,"","","",5,l_km_consumption
+Limousine,Grey,Oldtimer,"",Schaltgetriebe,Zuzwil,"",Ford,1966,69377,"",CORTINA,Cortina Lotus,"","","",4,null
+Cabriolet,Green,Occasion,"",Automatik-Getriebe,Zuzwil,"",BMW,2002,52900,"",M3,M3,"","","",12,l_km_consumption
+SUV / Geländewagen,Green,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Mercedes-benz,2012,16500,"",ML 63 AMG,ML 63 AMG 4Matic,"","","",1,l_km_consumption
+Cabriolet,Red,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Ferrari,2001,58000,"",F360,F360 Spider,"","","",5,l_km_consumption
+Cabriolet,Blue,Occasion,"",Schaltgetriebe,Zuzwil,"",Triumph,1974,38000,"",Spitfire,MK IV,"","","",3,null
+Limousine,Red,Occasion,"",Automat sequentiell,Zuzwil,"",Audi,1997,33800,"",A8,A8 4.2 quattro,"","","",9,l_km_consumption
+Cabriolet,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,2003,92300,"",CLK 55 AMG,CLK 55 AMG Avantgarde,"","","",2,l_km_consumption
+Limousine,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1999,51000,"",S 500,S 500,"","","",10,l_km_consumption
+Limousine,Black,Occasion,"",Automat sequentiell,Zuzwil,"",Mercedes-benz,2007,39900,"",E 63 AMG,E 63 AMG Avantgarde,"","","",7,l_km_consumption
+Coupé,Black,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,1973,40700,"",Alpine A110,1600 SC,"","","",8,null
+Pick-up,Black,Occasion,"",Automatik-Getriebe,Zuzwil,"",Dodge,2006,41000,"",Ram,SRT-10,"","","",3,null
+Coupé,Black,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",Maserati,2009,45000,"",GRANTURISMO,GranTurismo S,"","","",7,l_km_consumption
+Kombi,Black,Occasion,"",Automat,Zuzwil,"",Mercedes-benz,1998,64100,"",C 43 AMG,C 43 AMG Sport,"","","",1,l_km_consumption
+Limousine,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Lancia,1994,130300,"",DELTA,Delta HF Integrale Evo 4V,"","","",1,null
+Limousine,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",Alfa Romeo,1972,79380,"",GT,1300 Junior,"","","",6,null
+SUV / Geländewagen,Silver,Occasion,"",Automat sequentiell,Zuzwil,"",BMW,2012,39200,"",X1,X1 xDrive 25d Sport Line,"","","",9,l_km_consumption
+Cabriolet,Silver,Occasion,"",Schaltgetriebe,Zuzwil,"",Renault,2000,8000,"",SPORT SPIDER,Windschutzscheibe,"","","",9,null
+Cabriolet,Blue,Occasion,"",Schaltgetriebe,Sursee,"",Chevrolet,1969,10000,"",CAMARO,null,"","","",3,null
+SUV / Geländewagen,Silver,Neu,"",Automat sequentiell,Zuzwil,"",Porsche,2007,400,"",CAYENNE,Cayenne Turbo S,"","","",5,l_km_consumption
+Limousine,Silver,Occasion,"",Schaltgetriebe manuell,Zuzwil,"",BMW-alpina,2003,54100,"",3 SERIES,B3 3.3 S,"","","",2,l_km_consumption
+Coupé,Silver,Occasion,"",Automatisiertes Schaltgetriebe,Zuzwil,"",BMW,2005,55000,"",M6,M6,"","","",7,l_km_consumption
