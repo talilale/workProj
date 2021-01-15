@@ -20,14 +20,14 @@ def run(spark):
         df = df.withColumn("BodyColorText", substring_index("BodyColorText", " ", 1))
         # Joining main dataframe with color dataframe, removing unnecessary columns, switching translation column name,
         # performing additional operations to initcap car names and fixing some big car brands, also should be mapped.
-        full_df = df.join(dfColor, df.BodyColorText == dfColor.german, how = 'left')\
-           .drop("BodyColorText", "german")\
-           .withColumnRenamed("english", "color")\
-           .withColumn("MakeText", f.trim("MakeText"))\
-           .withColumn("MakeText", initcap("MakeText"))\
-           .withColumn("MakeText", regexp_replace("MakeText", "Bmw","BMW")) \
-           .withColumn("MakeText", regexp_replace("MakeText", "Vw", "VW")) \
-           .withColumn("MakeText", regexp_replace("MakeText", "Mercedes-Benz", "Mercedes Benz"))
+        full_df = df.join(dfColor, df.BodyColorText == dfColor.german, how = 'left') \
+            .drop("BodyColorText", "german") \
+            .withColumnRenamed("english", "color") \
+            .withColumn("MakeText", f.trim("MakeText")) \
+            .withColumn("MakeText", initcap("MakeText")) \
+            .withColumn("MakeText", regexp_replace("MakeText", "Bmw","BMW")) \
+            .withColumn("MakeText", regexp_replace("MakeText", "Vw", "VW")) \
+            .withColumn("MakeText", regexp_replace("MakeText", "Mercedes-Benz", "Mercedes Benz"))
 
         # Save to csv file, repartitioning for easy view
         save_file(full_df, tgt_file)

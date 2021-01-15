@@ -44,14 +44,14 @@ def run(spark):
               & (df.manufacture_year == tgtdf.manufacture_year) & (df.manufacture_month == tgtdf.manufacture_month),"left_anti")\
         .distinct()
         # Finding products that don't exist in source system
-        merge_old = tgtdf\
-        .join(df, (df.color == tgtdf.color) & (df.city == tgtdf.city) & (df.make == tgtdf.make)\
-              & (df.manufacture_year == tgtdf.manufacture_year) & (df.manufacture_month == tgtdf.manufacture_month),"left_anti")\
-        .distinct()
+        merge_old = tgtdf \
+            .join(df, (df.color == tgtdf.color) & (df.city == tgtdf.city) & (df.make == tgtdf.make) \
+                  & (df.manufacture_year == tgtdf.manufacture_year) & (df.manufacture_month == tgtdf.manufacture_month),"left_anti") \
+            .distinct()
         # Finding rows that are to be updated. For demo I'm updating only mileage column
-        merge_update = df\
-        .join(tgtdf, (df.color == tgtdf.color) & (df.city == tgtdf.city) & (df.make == tgtdf.make)\
-              & (df.manufacture_year == tgtdf.manufacture_year) & (df.manufacture_month == tgtdf.manufacture_month),"inner")\
+        merge_update = df \
+            .join(tgtdf, (df.color == tgtdf.color) & (df.city == tgtdf.city) & (df.make == tgtdf.make) \
+                  & (df.manufacture_year == tgtdf.manufacture_year) & (df.manufacture_month == tgtdf.manufacture_month),"inner") \
             .select(tgtdf["*"],df["mileage"].alias("new_mileage"))
         merge_update = merge_update.withColumn("mileage", when(col("mileage")=='0.0',col("new_mileage")).otherwise(col("mileage")))
         merge_update = merge_update.drop(col("new_mileage"))

@@ -12,23 +12,23 @@ def run(spark):
 
         # Renaming columns and adding missing columns with null values
         df = spark.read.option("charset", "UTF-8").option("header",True).csv(src_file)
-        df = df.withColumnRenamed("MakeText", "make")\
-        .withColumnRenamed("ModelText", "model")\
-        .withColumnRenamed("TypeName", "model_variant")\
-        .withColumnRenamed("City", "city")\
-        .withColumnRenamed("BodyTypeText", "carType")\
-        .withColumnRenamed("ConditionTypeText", "condition")\
-        .withColumnRenamed("TransmissionTypeText", "drive")\
-        .withColumnRenamed("FirstRegYear", "manufacture_year")\
-        .withColumnRenamed("Km", "mileage")\
-        .withColumnRenamed("FirstRegMonth", "manufacture_month")\
-        .withColumnRenamed("extracted-unit-ConsumptionTotalText", "fuel_consumption_unit")\
-        .withColumn("currency", lit(None).cast(StringType()))\
-        .withColumn("country", lit(None).cast(StringType()))\
-        .withColumn("mileage_unit", lit(None).cast(StringType()))\
-        .withColumn("price_on_request", lit(None).cast(StringType()))\
-        .withColumn("type", lit(None).cast(StringType()))\
-        .withColumn("zip", lit(None).cast(StringType()))
+        df = df.withColumnRenamed("MakeText", "make") \
+            .withColumnRenamed("ModelText", "model") \
+            .withColumnRenamed("TypeName", "model_variant") \
+            .withColumnRenamed("City", "city") \
+            .withColumnRenamed("BodyTypeText", "carType") \
+            .withColumnRenamed("ConditionTypeText", "condition") \
+            .withColumnRenamed("TransmissionTypeText", "drive") \
+            .withColumnRenamed("FirstRegYear", "manufacture_year") \
+            .withColumnRenamed("Km", "mileage") \
+            .withColumnRenamed("FirstRegMonth", "manufacture_month") \
+            .withColumnRenamed("extracted-unit-ConsumptionTotalText", "fuel_consumption_unit") \
+            .withColumn("currency", lit(None).cast(StringType())) \
+            .withColumn("country", lit(None).cast(StringType())) \
+            .withColumn("mileage_unit", lit(None).cast(StringType())) \
+            .withColumn("price_on_request", lit(None).cast(StringType())) \
+            .withColumn("type", lit(None).cast(StringType())) \
+            .withColumn("zip", lit(None).cast(StringType()))
 
         df = df.select("carType","color","condition","currency","drive","city","country","make","manufacture_year","mileage","mileage_unit","model","model_variant","price_on_request","type","zip","manufacture_month","fuel_consumption_unit")
 
