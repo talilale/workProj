@@ -1,26 +1,22 @@
-from pyspark.sql import SparkSession
+from utils import *
 import pandas as pd
 from pyspark.sql.types import *
 from pyspark.sql.functions import *
 import os
 
 
-def run():
+def run(spark):
     try:
         dir_path = os.path.dirname(os.path.realpath(__file__))
         src_file = dir_path + '/data_folder/phaseFour'
         # For clear testing purposes the target file is not updated directly, but saved as new file
         tgt_file = dir_path + '/data_folder/Targer Data11.xlsx'
-        #tgt_file = '/mnt/hgfs/VM/Targer Data11.xlsx'
 
-        spark = SparkSession.builder.appName("phaseFive")\
-        .getOrCreate()
-
-        df = spark.read.option("charset", "UTF-8").option("header",True).csv('/home/mona/Data Engineer Task/phaseFour')
+        df = spark.read.option("charset", "UTF-8").option("header",True).csv(src_file)
         df = df.distinct()
         tgt = pd.read_excel('/home/mona/Data Engineer Task/Target Data.xlsx', sheet_name='Sheet1', engine='openpyxl', na_values=[''],keep_default_na=False)
 
-        mySchema = StructType([ StructField("carType", StringType(), True)\
+        my_schema = StructType([ StructField("carType", StringType(), True)\
                                ,StructField("color", StringType(), True)\
                                ,StructField("condition", StringType(), True)\
                                ,StructField("currency", StringType(), True)\
@@ -39,7 +35,7 @@ def run():
                                ,StructField("manufacture_month", StringType(), True)\
                                ,StructField("fuel_consumption_unit", StringType(), True)])
 
-        tgtdf = spark.createDataFrame(tgt,schema=mySchema)
+        tgtdf = spark.createDataFrame(tgt,schema=my_schema)
         tgtdf = tgtdf.withColumn("manufacture_month", regexp_replace("manufacture_month", ".0",""))
 
         # Finding products that don't exist in target system
@@ -65,7 +61,6 @@ def run():
 
         target_result = full_result.toPandas()
         target_result.to_excel(tgt_file, index=None, header=True)
-        print(5)
-        return 1
+        return True
     except Exception as e:
-        return 0
+        return False

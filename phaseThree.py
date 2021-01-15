@@ -1,19 +1,13 @@
-from pyspark.sql import SparkSession
+from utils import *
 from pyspark.sql.functions import *
 import os
 
 
-def run():
+def run(spark):
     try:
         dir_path = os.path.dirname(os.path.realpath(__file__))
         src_file = dir_path + '/data_folder/phaseTwo'
         tgt_file = dir_path + '/data_folder/phaseThree'
-
-        spark = SparkSession.builder.appName("phaseThree")\
-        .config("spark.sql.shuffle.partitions", "50")\
-        .config("spark.driver.maxResultSize","5g")\
-        .config("spark.sql.execution.arrow.pyspark.enabled", "true")\
-        .getOrCreate()
 
         df = spark.read.option("charset", "UTF-8").option("header",True).csv(src_file)
 
@@ -23,14 +17,7 @@ def run():
         df = df.withColumn("extracted-unit-ConsumptionTotalText", regexp_replace("extracted-unit-ConsumptionTotalText", "/100","_"))
         df = df.withColumn("extracted-unit-ConsumptionTotalText", regexp_replace("extracted-unit-ConsumptionTotalText", "km","km_consumption"))
         # Save to csv file, repartitioning for easy view
-        df \
-        .repartition(1)\
-        .write.format("com.databricks.spark.csv")\
-        .mode("overwrite")\
-        .option("header", "true")\
-        .option("charset", "UTF-8")\
-        .save(tgt_file,format="csv")
-        print(3)
-        return 1
+        save_file(df, tgt_file)
+        return True
     except Exception as e:
-        return 0
+        return False
