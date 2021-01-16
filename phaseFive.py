@@ -22,7 +22,6 @@ def run(spark, log_file):
         df = spark.read.option("charset", "UTF-8").option("header",True).csv(src_file)
         msg = ' P5: Source file - rows: ' + str(df.count()) + ' columns:' + str(len(df.columns))
         logging.info(now + msg)
-        #df = df.distinct()
 
         tgt = pd.read_excel('/home/mona/Data Engineer Task/Target Data.xlsx', sheet_name='Sheet1', engine='openpyxl', na_values=[''],keep_default_na=False)
 
